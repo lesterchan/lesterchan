@@ -19,3 +19,5 @@
 💼 LinkedIn: [lesterchan](https://www.linkedin.com/in/lesterchan)
 
 🐦 Twitter: [@gamerz](https://twitter.com/gamerz)
+
+🖼 Instagram: [@gamerz](https://instagram/gamerz)
