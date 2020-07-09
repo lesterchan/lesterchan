@@ -20,4 +20,4 @@
 
 🐦 Twitter: [@gamerz](https://twitter.com/gamerz)
 
-🖼 Instagram: [@gamerz](https://instagram/gamerz)
+🖼 Instagram: [@gamerz](https://instagram.com/gamerz)
