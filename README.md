@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**lesterchan/lesterchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+🌏 I blogged about gadgets at [lesterchan.net](https://lesterchan.net).
 
-Here are some ideas to get you started:
+🥞 Currently working in [Grab](https://grab.com) as a Senior Software Engineer, Fullstack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⏪ Previously, I was the Head of Engineering in [Tech in Asia](https://www.techinasia.com).
+
+🔌 During my free time (which I do not have much now), I am a [WordPress](https://wordpress.org)  Plugins Developer.
+
+❤️ Married and husband to [Lay Hiang](https://github.com/layhiang).
+
+## 🔎 Find Me
+📧 Email: lesterchan@gmail.com
+
+🌏 Website: [lesterchan.net](https://lesterchan.net)
+
+💼 LinkedIn: [lesterchan](https://www.linkedin.com/in/lesterchan)
+
+🐦 Twitter: [@gamerz](https://twitter.com/gamerz)
