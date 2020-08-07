@@ -1,0 +1,14 @@
+name: Latest Blog Post Workflow
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-latest-blog-posts:
+    name: Update README.md With Latest Blog Posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://lesterchan.net/feed"
