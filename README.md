@@ -12,7 +12,7 @@
 
 ## 🔎 Find Me
 
-[![Email: lesterchan@gmail.com](https://cdn.jsdelivr.net/npm/@coreui/icons@1.0.1/png/brand/32x32/cib-gmail.png "Email: lesterchan@gmail.com")](lesterchan@gmail.com)
+[![Email: lesterchan@gmail.com](https://cdn.jsdelivr.net/npm/@coreui/icons@1.0.1/png/brand/32x32/cib-gmail.png "Email: lesterchan@gmail.com")](mailto:lesterchan@gmail.com)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![LinkedIn: https://www.linkedin.com/in/lesterchan](https://cdn.jsdelivr.net/npm/@coreui/icons@1.0.1/png/brand/32x32/cib-linkedin.png "LinkedIn: https://www.linkedin.com/in/lesterchan")](https://www.linkedin.com/in/lesterchan)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
