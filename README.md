@@ -24,3 +24,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+# GitHub Stats
+
+[![MY GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesterchan&show_icons=true&private=true&include_all_commits=true)](https://github.com/lesterchan)
