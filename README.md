@@ -23,6 +23,7 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+
 - [LEGO Art Marvel Studios Iron Man 31199](https://lesterchan.net/blog/2020/08/07/lego-art-marvel-studios-iron-man-31199/)
 - [Projector Tray For Tripod Mount](https://lesterchan.net/blog/2020/08/05/projector-tray-for-tripod-mount/)
 - [Satechi USB-C Apple AirPods Wireless Charging Dock](https://lesterchan.net/blog/2020/08/03/satechi-usb-c-apple-airpods-wireless-charging-dock/)
@@ -32,4 +33,4 @@
 
 # GitHub Stats
 
-[![Lester Chan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesterchan&show_icons=true&private=true&include_all_commits=true) "Lester Chan's GitHub Stats"](https://github.com/lesterchan)
+[![Lester Chan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesterchan&show_icons=true&private=true&include_all_commits=true "Lester Chan's GitHub Stats")](https://github.com/lesterchan)
