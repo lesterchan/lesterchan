@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Revov Tray Box](https://lesterchan.net/blog/2020/08/17/revov-tray-box/)
 - [Targus Cypress EcoSmart 15.6″ Slim Backpack](https://lesterchan.net/blog/2020/08/14/targus-cypress-ecosmart-15-6-slim-backpack/)
 - [Targus Cypress EcoSmart 11 – 12″ Sleeve](https://lesterchan.net/blog/2020/08/12/targus-cypress-ecosmart-11-12-sleeve/)
 - [LEGO Art Marvel Studios Iron Man 31199](https://lesterchan.net/blog/2020/08/07/lego-art-marvel-studios-iron-man-31199/)
 - [Projector Tray For Tripod Mount](https://lesterchan.net/blog/2020/08/05/projector-tray-for-tripod-mount/)
-- [Satechi USB-C Apple AirPods Wireless Charging Dock](https://lesterchan.net/blog/2020/08/03/satechi-usb-c-apple-airpods-wireless-charging-dock/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
