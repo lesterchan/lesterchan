@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Kioxia Exceria 500GB NVMe M.2 SSD](https://lesterchan.net/blog/2020/09/04/kioxia-exceria-500gb-nvme-m-2-ssd/)
 - [Zendure SuperPort S2](https://lesterchan.net/blog/2020/09/01/zendure-superport-s2/)
 - [Linksys Velop MX5300 Wi-Fi 6 Review](https://lesterchan.net/blog/2020/08/24/linksys-velop-mx5300-wi-fi-6-review/)
 - [USB To 3-Pin/4-Pin Cables](https://lesterchan.net/blog/2020/08/19/usb-to-3-pin-4-pin-cables/)
 - [Revov Tray Box](https://lesterchan.net/blog/2020/08/17/revov-tray-box/)
-- [Targus Cypress EcoSmart 15.6″ Slim Backpack](https://lesterchan.net/blog/2020/08/14/targus-cypress-ecosmart-15-6-slim-backpack/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
