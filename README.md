@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Crave 10W Wireless Charging Stand](https://lesterchan.net/blog/2020/09/09/crave-10w-wireless-charging-stand/)
 - [Third Apple Store in Singapore will open on 10th September 2020 at 10am](https://lesterchan.net/blog/2020/09/08/third-apple-store-in-singapore-will-open-on-10th-september-2020-at-10am/)
 - [Ugreen Mobile Phone Stand Holder](https://lesterchan.net/blog/2020/09/07/ugreen-mobile-phone-stand-holder/)
 - [Kioxia Exceria 500GB NVMe M.2 SSD](https://lesterchan.net/blog/2020/09/04/kioxia-exceria-500gb-nvme-m-2-ssd/)
 - [Zendure SuperPort S2](https://lesterchan.net/blog/2020/09/01/zendure-superport-s2/)
-- [Linksys Velop MX5300 Wi-Fi 6 Review](https://lesterchan.net/blog/2020/08/24/linksys-velop-mx5300-wi-fi-6-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
