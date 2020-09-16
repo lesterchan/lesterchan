@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sum Dial Wireless Charger](https://lesterchan.net/blog/2020/09/16/sum-dial-wireless-charger/)
 - [Aukey EP-N5 Active Noise Cancelling Wireless Earbuds](https://lesterchan.net/blog/2020/09/14/aukey-ep-n5-active-noise-cancelling-wireless-earbuds/)
 - [Ugreen 10W Wireless Charging Stand](https://lesterchan.net/blog/2020/09/11/ugreen-10w-wireless-charging-stand/)
 - [Crave 10W Wireless Charging Stand](https://lesterchan.net/blog/2020/09/09/crave-10w-wireless-charging-stand/)
 - [Third Apple Store in Singapore will open on 10th September 2020 at 10am](https://lesterchan.net/blog/2020/09/08/third-apple-store-in-singapore-will-open-on-10th-september-2020-at-10am/)
-- [Ugreen Mobile Phone Stand Holder](https://lesterchan.net/blog/2020/09/07/ugreen-mobile-phone-stand-holder/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
