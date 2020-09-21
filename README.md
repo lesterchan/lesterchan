@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi Mi LED TV 4S 55](https://lesterchan.net/blog/2020/09/21/xiaomi-mi-led-tv-4s-55/)
 - [Hydragun Review](https://lesterchan.net/blog/2020/09/18/hydragun-review/)
 - [Sum Dial Wireless Charger](https://lesterchan.net/blog/2020/09/16/sum-dial-wireless-charger/)
 - [Aukey EP-N5 Active Noise Cancelling Wireless Earbuds](https://lesterchan.net/blog/2020/09/14/aukey-ep-n5-active-noise-cancelling-wireless-earbuds/)
 - [Ugreen 10W Wireless Charging Stand](https://lesterchan.net/blog/2020/09/11/ugreen-10w-wireless-charging-stand/)
-- [Crave 10W Wireless Charging Stand](https://lesterchan.net/blog/2020/09/09/crave-10w-wireless-charging-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
