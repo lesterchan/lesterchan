@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [thecoopidea Builder Block](https://lesterchan.net/blog/2020/10/06/thecoopidea-builder-block/)
 - [ErgoTune Supreme (2020)](https://lesterchan.net/blog/2020/10/01/ergotune-supreme-2020/)
 - [Xiaomi Mi LED TV 4S 55](https://lesterchan.net/blog/2020/09/21/xiaomi-mi-led-tv-4s-55/)
 - [Hydragun Review](https://lesterchan.net/blog/2020/09/18/hydragun-review/)
 - [Sum Dial Wireless Charger](https://lesterchan.net/blog/2020/09/16/sum-dial-wireless-charger/)
-- [Aukey EP-N5 Active Noise Cancelling Wireless Earbuds](https://lesterchan.net/blog/2020/09/14/aukey-ep-n5-active-noise-cancelling-wireless-earbuds/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
