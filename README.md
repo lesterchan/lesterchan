@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Singtel iPhone 12 Mini, iPhone 12, 12 Pro, And 12 Pro Max Price Plans](https://lesterchan.net/blog/2020/10/15/singtel-iphone-12-mini-iphone-12-12-pro-and-12-pro-max-price-plans/)
 - [thecoopidea Builder Block](https://lesterchan.net/blog/2020/10/06/thecoopidea-builder-block/)
 - [ErgoTune Supreme (2020)](https://lesterchan.net/blog/2020/10/01/ergotune-supreme-2020/)
 - [Xiaomi Mi LED TV 4S 55](https://lesterchan.net/blog/2020/09/21/xiaomi-mi-led-tv-4s-55/)
 - [Hydragun Review](https://lesterchan.net/blog/2020/09/18/hydragun-review/)
-- [Sum Dial Wireless Charger](https://lesterchan.net/blog/2020/09/16/sum-dial-wireless-charger/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
