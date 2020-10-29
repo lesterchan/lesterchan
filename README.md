@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Arlo Essential Spotlight Camera Review](https://lesterchan.net/blog/2020/10/29/arlo-essential-spotlight-camera-review/)
 - [Apple MagSafe Charger](https://lesterchan.net/blog/2020/10/26/apple-magsafe-charger/)
 - [Bebird X17 Pro](https://lesterchan.net/blog/2020/10/20/bebird-x17-pro/)
 - [Singtel iPhone 12 Mini, iPhone 12, 12 Pro, And 12 Pro Max Price Plans](https://lesterchan.net/blog/2020/10/15/singtel-iphone-12-mini-iphone-12-12-pro-and-12-pro-max-price-plans/)
 - [thecoopidea Builder Block](https://lesterchan.net/blog/2020/10/06/thecoopidea-builder-block/)
-- [ErgoTune Supreme (2020)](https://lesterchan.net/blog/2020/10/01/ergotune-supreme-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
