@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [PRISM+ Q55 TV Review](https://lesterchan.net/blog/2020/11/09/prism-q55-tv-review/)
 - [Sudio Femtio Speaker](https://lesterchan.net/blog/2020/11/04/sudio-femtio-speaker/)
 - [Gutter Mount for Arlo Cameras](https://lesterchan.net/blog/2020/11/02/gutter-mount-for-arlo-cameras/)
 - [Arlo Essential Spotlight Camera Review](https://lesterchan.net/blog/2020/10/29/arlo-essential-spotlight-camera-review/)
 - [Apple MagSafe Charger](https://lesterchan.net/blog/2020/10/26/apple-magsafe-charger/)
-- [Bebird X17 Pro](https://lesterchan.net/blog/2020/10/20/bebird-x17-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
