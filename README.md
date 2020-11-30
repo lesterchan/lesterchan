@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Bebird R1](https://lesterchan.net/blog/2020/11/30/bebird-r1/)
 - [YZXstudio USB-C Power Meter](https://lesterchan.net/blog/2020/11/25/yzxstudio-usb-c-power-meter/)
 - [Apple 20W USB-C Power Adapter](https://lesterchan.net/blog/2020/11/16/apple-20w-usb-c-power-adapter/)
 - [Close Comfort Cool Focus Portable Air Conditioner Review](https://lesterchan.net/blog/2020/11/13/close-comfort-cool-focus-portable-air-conditioner-review/)
 - [Apple iPhone 12 Pro Max Clear Case with MagSafe](https://lesterchan.net/blog/2020/11/11/apple-iphone-12-pro-max-clear-case-with-magsafe/)
-- [PRISM+ Q55 TV Review](https://lesterchan.net/blog/2020/11/09/prism-q55-tv-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
