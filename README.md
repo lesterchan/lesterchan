@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sonoff T2UK Wi-Fi Smart Wall Switch Review](https://lesterchan.net/blog/2020/12/09/sonoff-t2uk-wi-fi-smart-wall-switch/)
 - [Ugreen NVMe M.2 SSD USB-C Case](https://lesterchan.net/blog/2020/12/07/ugreen-nvme-m-2-ssd-usb-c-case/)
 - [Bebird R1](https://lesterchan.net/blog/2020/11/30/bebird-r1/)
 - [YZXstudio USB-C Power Meter](https://lesterchan.net/blog/2020/11/25/yzxstudio-usb-c-power-meter/)
 - [Apple 20W USB-C Power Adapter](https://lesterchan.net/blog/2020/11/16/apple-20w-usb-c-power-adapter/)
-- [Close Comfort Cool Focus Portable Air Conditioner Review](https://lesterchan.net/blog/2020/11/13/close-comfort-cool-focus-portable-air-conditioner-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
