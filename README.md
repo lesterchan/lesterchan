@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [OEM Audio Cable with Mic for Bose QC35](https://lesterchan.net/blog/2021/01/15/oem-audio-cable-with-mic-for-bose-qc35/)
 - [LEGO Botanical Collection](https://lesterchan.net/blog/2021/01/13/lego-botanical-collection/)
 - [Sudio Nio Wireless Earbuds](https://lesterchan.net/blog/2021/01/11/sudio-nio-wireless-earbuds/)
 - [Sonoff Micro USB Smart Adaptor](https://lesterchan.net/blog/2021/01/04/sonoff-micro-usb-smart-adaptor/)
 - [Looking Back 2020](https://lesterchan.net/blog/2020/12/31/looking-back-2020/)
-- [Sony WH-1000XM4 Headphones](https://lesterchan.net/blog/2020/12/28/sony-wh-1000xm4-headphones/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
