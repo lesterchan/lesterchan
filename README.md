@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ugreen 20W USB-C PD Charger](https://lesterchan.net/blog/2021/01/25/ugreen-20w-usb-c-pd-charger/)
 - [Ugreen Headphone Splitter Cable](https://lesterchan.net/blog/2021/01/22/ugreen-headphone-splitter-cable/)
 - [Martiangear Astronaut (Fabric) Gaming Chair Review](https://lesterchan.net/blog/2021/01/18/martiangear-astronaut-fabric-gaming-chair-review/)
 - [OEM Audio Cable with Mic for Bose QC35](https://lesterchan.net/blog/2021/01/15/oem-audio-cable-with-mic-for-bose-qc35/)
 - [LEGO Botanical Collection](https://lesterchan.net/blog/2021/01/13/lego-botanical-collection/)
-- [Sudio Nio Wireless Earbuds](https://lesterchan.net/blog/2021/01/11/sudio-nio-wireless-earbuds/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
