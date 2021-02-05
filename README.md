@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Philips Sonicare ProtectiveClean 5100 Electric Toothbrush](https://lesterchan.net/blog/2021/02/05/philips-sonicare-protectiveclean-5100-electric-toothbrush/)
 - [ASUSTOR Lockerstor 4 (AS6604T) Review](https://lesterchan.net/blog/2021/02/01/asustor-lockerstor-4-as6604t-review/)
 - [HOCE MagSafe Charger Holder](https://lesterchan.net/blog/2021/01/27/hoce-magsafe-charger-holder/)
 - [Ugreen 20W USB-C PD Charger](https://lesterchan.net/blog/2021/01/25/ugreen-20w-usb-c-pd-charger/)
 - [Ugreen Headphone Splitter Cable](https://lesterchan.net/blog/2021/01/22/ugreen-headphone-splitter-cable/)
-- [Martiangear Astronaut (Fabric) Gaming Chair Review](https://lesterchan.net/blog/2021/01/18/martiangear-astronaut-fabric-gaming-chair-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
