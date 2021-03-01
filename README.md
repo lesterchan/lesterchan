@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple AirPods Max](https://lesterchan.net/blog/2021/03/01/apple-airpods-max/)
 - [ORIA Digital Hygrometer Thermometer Display](https://lesterchan.net/blog/2021/02/26/oria-digital-hygrometer-thermometer-display/)
 - [OEM Apple Pencil (2nd Generation) Replacement Tip](https://lesterchan.net/blog/2021/02/24/oem-apple-pencil-2nd-generation-replacement-tip/)
 - [Ugreen 65W GaN Dual USB-C Charger](https://lesterchan.net/blog/2021/02/22/ugreen-65w-gan-dual-usb-c-charger/)
 - [Ugreen USB 3.0 Extension Cable](https://lesterchan.net/blog/2021/02/17/ugreen-usb-3-0-extension-cable/)
-- [UNI-T Mini Light Meter (UT383)](https://lesterchan.net/blog/2021/02/08/uni-t-mini-light-meter-ut383/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
