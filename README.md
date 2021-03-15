@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Synology DiskStation DS1621+ Review](https://lesterchan.net/blog/2021/03/15/synology-diskstation-ds1621-review/)
 - [OEM Apple AirPods Max Case](https://lesterchan.net/blog/2021/03/11/oem-apple-airpods-max-case/)
 - [Linksys Velop MX4200 Wi-Fi 6 Mesh Router](https://lesterchan.net/blog/2021/03/08/linksys-velop-mx4200-wi-fi-6-mesh-router/)
 - [Apple AirPods Max](https://lesterchan.net/blog/2021/03/01/apple-airpods-max/)
 - [ORIA Digital Hygrometer Thermometer Display](https://lesterchan.net/blog/2021/02/26/oria-digital-hygrometer-thermometer-display/)
-- [OEM Apple Pencil (2nd Generation) Replacement Tip](https://lesterchan.net/blog/2021/02/24/oem-apple-pencil-2nd-generation-replacement-tip/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
