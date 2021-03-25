@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy 37th Birthday To Me](https://lesterchan.net/blog/2021/03/25/happy-37th-birthday-to-me/)
 - [Synology DDR4 RAM (ECC)](https://lesterchan.net/blog/2021/03/22/synology-ddr4-ram-ecc/)
 - [Hard Disk Drive (HDD) Hard Storage Case](https://lesterchan.net/blog/2021/03/18/hard-disk-drive-hdd-hard-storage-case/)
 - [Synology DiskStation DS1621+ Review](https://lesterchan.net/blog/2021/03/15/synology-diskstation-ds1621-review/)
 - [OEM Apple AirPods Max Case](https://lesterchan.net/blog/2021/03/11/oem-apple-airpods-max-case/)
-- [Linksys Velop MX4200 Wi-Fi 6 Mesh Router](https://lesterchan.net/blog/2021/03/08/linksys-velop-mx4200-wi-fi-6-mesh-router/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
