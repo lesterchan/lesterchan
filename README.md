@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Synology SNV3000 Series NVMe M.2 SSD](https://lesterchan.net/blog/2021/03/29/synology-snv3000-series-nvme-m-2-ssd/)
 - [Happy 37th Birthday To Me](https://lesterchan.net/blog/2021/03/25/happy-37th-birthday-to-me/)
 - [Synology DDR4 RAM (ECC)](https://lesterchan.net/blog/2021/03/22/synology-ddr4-ram-ecc/)
 - [Hard Disk Drive (HDD) Hard Storage Case](https://lesterchan.net/blog/2021/03/18/hard-disk-drive-hdd-hard-storage-case/)
 - [Synology DiskStation DS1621+ Review](https://lesterchan.net/blog/2021/03/15/synology-diskstation-ds1621-review/)
-- [OEM Apple AirPods Max Case](https://lesterchan.net/blog/2021/03/11/oem-apple-airpods-max-case/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
