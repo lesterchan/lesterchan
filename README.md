@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Baseus 65W GaN Dual USB-C Plus USB-A Charger](https://lesterchan.net/blog/2021/04/26/baseus-65w-gan-dual-usb-c-plus-usb-a-charger/)
 - [Baseus 20W USB-C PD Charger](https://lesterchan.net/blog/2021/04/19/baseus-20w-usb-c-pd-charger/)
 - [OEM Portable Laptop Stand](https://lesterchan.net/blog/2021/04/12/oem-portable-laptop-stand/)
 - [Installing Ubuntu Server On Synology NAS](https://lesterchan.net/blog/2021/04/05/installing-ubuntu-server-on-synology-nas/)
 - [Apple HomePod Mini](https://lesterchan.net/blog/2021/04/01/apple-homepod-mini/)
-- [Synology SNV3000 Series NVMe M.2 SSD](https://lesterchan.net/blog/2021/03/29/synology-snv3000-series-nvme-m-2-ssd/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
