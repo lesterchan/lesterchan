@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ugreen 65W GaN Triple USB-C Plus USB-A Charger](https://lesterchan.net/blog/2021/05/05/ugreen-65w-gan-triple-usb-c-plus-usb-a-charger/)
 - [OEM Apple AirPods Max Silicone Cover](https://lesterchan.net/blog/2021/05/03/oem-apple-airpods-max-silicone-cover/)
 - [Baseus 65W GaN Dual USB-C Plus USB-A Charger](https://lesterchan.net/blog/2021/04/26/baseus-65w-gan-dual-usb-c-plus-usb-a-charger/)
 - [Baseus 20W USB-C PD Charger](https://lesterchan.net/blog/2021/04/19/baseus-20w-usb-c-pd-charger/)
 - [OEM Portable Laptop Stand](https://lesterchan.net/blog/2021/04/12/oem-portable-laptop-stand/)
-- [Installing Ubuntu Server On Synology NAS](https://lesterchan.net/blog/2021/04/05/installing-ubuntu-server-on-synology-nas/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
