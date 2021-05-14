@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple AirTag Leather Loop](https://lesterchan.net/blog/2021/05/14/apple-airtag-leather-loop/)
 - [OEM Apple AirTag Key Ring](https://lesterchan.net/blog/2021/05/12/oem-apple-airtag-key-ring/)
 - [Apple AirTag Leather Key Ring](https://lesterchan.net/blog/2021/05/10/apple-airtag-leather-key-ring/)
 - [Apple AirTag](https://lesterchan.net/blog/2021/05/07/apple-airtag/)
 - [Ugreen 65W GaN Triple USB-C Plus USB-A Charger](https://lesterchan.net/blog/2021/05/05/ugreen-65w-gan-triple-usb-c-plus-usb-a-charger/)
-- [OEM Apple AirPods Max Silicone Cover](https://lesterchan.net/blog/2021/05/03/oem-apple-airpods-max-silicone-cover/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
