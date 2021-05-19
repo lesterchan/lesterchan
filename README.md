@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sonos Beam](https://lesterchan.net/blog/2021/05/19/sonos-beam/)
 - [Arlo Essential Indoor Camera Review](https://lesterchan.net/blog/2021/05/17/arlo-essential-indoor-camera-review/)
 - [Apple AirTag Leather Loop](https://lesterchan.net/blog/2021/05/14/apple-airtag-leather-loop/)
 - [OEM Apple AirTag Key Ring](https://lesterchan.net/blog/2021/05/12/oem-apple-airtag-key-ring/)
 - [Apple AirTag Leather Key Ring](https://lesterchan.net/blog/2021/05/10/apple-airtag-leather-key-ring/)
-- [Apple AirTag](https://lesterchan.net/blog/2021/05/07/apple-airtag/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
