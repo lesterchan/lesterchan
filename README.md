@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Lululook Magnetic iPad Stand](https://lesterchan.net/blog/2021/06/16/lululook-magnetic-ipad-stand/)
 - [Sonos Sub (Gen 3)](https://lesterchan.net/blog/2021/06/14/sonos-sub-gen-3/)
 - [Western Digital My Passport SSD](https://lesterchan.net/blog/2021/06/09/western-digital-my-passport-ssd/)
 - [Amazon Echo & Alexa App Now Officially Available in Singapore](https://lesterchan.net/blog/2021/06/07/amazon-echo-alexa-app-now-officially-available-in-singapore/)
 - [Targus 15″ Newport Backpack](https://lesterchan.net/blog/2021/06/03/targus-15-newport-backpack/)
-- [Apple TV 4K (2nd Generation)](https://lesterchan.net/blog/2021/06/01/apple-tv-4k-2nd-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
