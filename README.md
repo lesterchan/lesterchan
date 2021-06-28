@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Testing Sonos 5.1 Surround Sound](https://lesterchan.net/blog/2021/06/28/testing-sonos-5-1-surround-sound/)
 - [Sonos One SL](https://lesterchan.net/blog/2021/06/23/sonos-one-sl/)
 - [Logitech C920 Pro HD Webcam](https://lesterchan.net/blog/2021/06/21/logitech-c920-pro-hd-webcam/)
 - [Lululook Magnetic iPad Stand](https://lesterchan.net/blog/2021/06/16/lululook-magnetic-ipad-stand/)
 - [Sonos Sub (Gen 3)](https://lesterchan.net/blog/2021/06/14/sonos-sub-gen-3/)
-- [Western Digital My Passport SSD](https://lesterchan.net/blog/2021/06/09/western-digital-my-passport-ssd/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
