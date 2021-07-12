@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Atlas Headrest for Herman Miller Classic Aeron Chair](https://lesterchan.net/blog/2021/07/12/atlas-headrest-for-herman-miller-classic-aeron-chair/)
 - [Synology DiskStation Manager 7 (DSM 7)](https://lesterchan.net/blog/2021/07/07/synology-diskstation-manager-7-dsm-7/)
 - [Testing Sonos 5.1 Surround Sound](https://lesterchan.net/blog/2021/06/28/testing-sonos-5-1-surround-sound/)
 - [Sonos One SL](https://lesterchan.net/blog/2021/06/23/sonos-one-sl/)
 - [Logitech C920 Pro HD Webcam](https://lesterchan.net/blog/2021/06/21/logitech-c920-pro-hd-webcam/)
-- [Lululook Magnetic iPad Stand](https://lesterchan.net/blog/2021/06/16/lululook-magnetic-ipad-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
