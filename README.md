@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Xiaomi Mi Multifunctional Digital Clock](https://lesterchan.net/blog/2021/07/21/xiaomi-mi-multifunctional-digital-clock/)
 - [Ugreen 4-Port PD 100W Charger](https://lesterchan.net/blog/2021/07/14/ugreen-4-port-pd-100w-charger/)
 - [Atlas Headrest for Herman Miller Classic Aeron Chair](https://lesterchan.net/blog/2021/07/12/atlas-headrest-for-herman-miller-classic-aeron-chair/)
 - [Synology DiskStation Manager 7 (DSM 7)](https://lesterchan.net/blog/2021/07/07/synology-diskstation-manager-7-dsm-7/)
 - [Testing Sonos 5.1 Surround Sound](https://lesterchan.net/blog/2021/06/28/testing-sonos-5-1-surround-sound/)
-- [Sonos One SL](https://lesterchan.net/blog/2021/06/23/sonos-one-sl/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
