@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Verbatim 4-in-1 Wireless Charging Dock](https://lesterchan.net/blog/2021/08/10/verbatim-4-in-1-wireless-charging-dock/)
 - [Verbatim 4-Port PD 100W Charger](https://lesterchan.net/blog/2021/08/02/verbatim-4-port-pd-100w-charger/)
 - [Verbatim Sync & Charge USB-C Cable](https://lesterchan.net/blog/2021/07/26/verbatim-sync-charge-usb-c-cable/)
 - [Xiaomi Mi Multifunctional Digital Clock](https://lesterchan.net/blog/2021/07/21/xiaomi-mi-multifunctional-digital-clock/)
 - [Ugreen 4-Port PD 100W Charger](https://lesterchan.net/blog/2021/07/14/ugreen-4-port-pd-100w-charger/)
-- [Atlas Headrest for Herman Miller Classic Aeron Chair](https://lesterchan.net/blog/2021/07/12/atlas-headrest-for-herman-miller-classic-aeron-chair/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
