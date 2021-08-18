@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Moshi Lounge Q Wireless Charging Stand](https://lesterchan.net/blog/2021/08/18/moshi-lounge-q-wireless-charging-stand/)
 - [Moshi Symbus Mini 7-in-1 USB-C Hub](https://lesterchan.net/blog/2021/08/16/moshi-symbus-mini-7-in-1-usb-c-hub/)
 - [Verbatim 4-in-1 Wireless Charging Dock](https://lesterchan.net/blog/2021/08/10/verbatim-4-in-1-wireless-charging-dock/)
 - [Verbatim 4-Port PD 100W Charger](https://lesterchan.net/blog/2021/08/02/verbatim-4-port-pd-100w-charger/)
 - [Verbatim Sync & Charge USB-C Cable](https://lesterchan.net/blog/2021/07/26/verbatim-sync-charge-usb-c-cable/)
-- [Xiaomi Mi Multifunctional Digital Clock](https://lesterchan.net/blog/2021/07/21/xiaomi-mi-multifunctional-digital-clock/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
