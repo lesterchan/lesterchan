@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Moshi Integra USB-C Cable](https://lesterchan.net/blog/2021/08/27/moshi-integra-usb-c-cable/)
 - [Moshi Integra USB-C to Lightning Cable](https://lesterchan.net/blog/2021/08/25/moshi-integra-usb-c-to-lightning-cable/)
 - [Moshi HDMI Cable](https://lesterchan.net/blog/2021/08/23/moshi-hdmi-cable/)
 - [Ugreen USB-C to USB-A Adapter](https://lesterchan.net/blog/2021/08/20/ugreen-usb-c-to-usb-a-adapter/)
 - [Moshi Lounge Q Wireless Charging Stand](https://lesterchan.net/blog/2021/08/18/moshi-lounge-q-wireless-charging-stand/)
-- [Moshi Symbus Mini 7-in-1 USB-C Hub](https://lesterchan.net/blog/2021/08/16/moshi-symbus-mini-7-in-1-usb-c-hub/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
