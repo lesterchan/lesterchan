@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [ILife Shinebot W450 Review](https://lesterchan.net/blog/2021/09/01/ilife-shinebot-w450-review/)
 - [Moshi Integra USB-C Cable](https://lesterchan.net/blog/2021/08/27/moshi-integra-usb-c-cable/)
 - [Moshi Integra USB-C to Lightning Cable](https://lesterchan.net/blog/2021/08/25/moshi-integra-usb-c-to-lightning-cable/)
 - [Moshi HDMI Cable](https://lesterchan.net/blog/2021/08/23/moshi-hdmi-cable/)
 - [Ugreen USB-C to USB-A Adapter](https://lesterchan.net/blog/2021/08/20/ugreen-usb-c-to-usb-a-adapter/)
-- [Moshi Lounge Q Wireless Charging Stand](https://lesterchan.net/blog/2021/08/18/moshi-lounge-q-wireless-charging-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
