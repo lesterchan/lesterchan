@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Nest Hub (2nd Generation)](https://lesterchan.net/blog/2021/09/27/google-nest-hub-2nd-generation/)
 - [My Nest Hello Doorbell (Wired) Is Bricked](https://lesterchan.net/blog/2021/09/22/my-nest-hello-doorbell-wired-is-bricked/)
 - [Apple iPhone 13 Pro Max Clear Case with MagSafe](https://lesterchan.net/blog/2021/09/20/apple-iphone-13-pro-max-clear-case-with-magsafe/)
 - [Singtel iPhone 13 Mini, iPhone 13, 13 Pro, And 13 Pro Max Price Plans](https://lesterchan.net/blog/2021/09/16/singtel-iphone-13-mini-iphone-13-13-pro-and-13-pro-max-price-plans/)
 - [Installing Nest Hello Doorbell To HDB BTO Doorbell](https://lesterchan.net/blog/2021/09/13/installing-nest-hello-doorbell-to-hdb-bto-doorbell/)
-- [Koncept Z-Bar LED Desk Lamp Review](https://lesterchan.net/blog/2021/09/08/koncept-z-bar-led-desk-lamp-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
