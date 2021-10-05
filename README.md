@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Windows 11 Available Starting Today](https://lesterchan.net/blog/2021/10/05/windows-11-available-starting-today/)
 - [Eufy Video Doorbell 2K (Wired) Review](https://lesterchan.net/blog/2021/10/04/eufy-video-doorbell-2k-wired-review/)
 - [Keychron K7](https://lesterchan.net/blog/2021/09/29/keychron-k7/)
 - [Google Nest Hub (2nd Generation)](https://lesterchan.net/blog/2021/09/27/google-nest-hub-2nd-generation/)
 - [My Nest Hello Doorbell (Wired) Is Bricked](https://lesterchan.net/blog/2021/09/22/my-nest-hello-doorbell-wired-is-bricked/)
-- [Apple iPhone 13 Pro Max Clear Case with MagSafe](https://lesterchan.net/blog/2021/09/20/apple-iphone-13-pro-max-clear-case-with-magsafe/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
