@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Keychron Q1](https://lesterchan.net/blog/2021/10/26/keychron-q1/)
 - [Torras Coolify Portable Air Conditioner Review](https://lesterchan.net/blog/2021/10/22/torras-coolify-portable-air-conditioner-review/)
 - [AhaStyle MagSafe Charger Stand](https://lesterchan.net/blog/2021/10/18/ahastyle-magsafe-charger-stand/)
 - [Keychron Coiled Aviator Cable](https://lesterchan.net/blog/2021/10/14/keychron-coiled-aviator-cable/)
 - [Elgato Stream Deck MK.2](https://lesterchan.net/blog/2021/10/11/elgato-stream-deck-mk-2/)
-- [Windows 11 Available Starting Today](https://lesterchan.net/blog/2021/10/05/windows-11-available-starting-today/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
