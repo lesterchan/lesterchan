@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Akko Cherry Profile Carbon Retro Keycap Set](https://lesterchan.net/blog/2021/10/28/akko-cherry-profile-carbon-retro-keycap-set/)
 - [Keychron Q1](https://lesterchan.net/blog/2021/10/26/keychron-q1/)
 - [Torras Coolify Portable Air Conditioner Review](https://lesterchan.net/blog/2021/10/22/torras-coolify-portable-air-conditioner-review/)
 - [AhaStyle MagSafe Charger Stand](https://lesterchan.net/blog/2021/10/18/ahastyle-magsafe-charger-stand/)
 - [Keychron Coiled Aviator Cable](https://lesterchan.net/blog/2021/10/14/keychron-coiled-aviator-cable/)
-- [Elgato Stream Deck MK.2](https://lesterchan.net/blog/2021/10/11/elgato-stream-deck-mk-2/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
