@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Moshi Overture Case with Detachable Magnetic Wallet For iPhone 13 Pro](https://lesterchan.net/blog/2021/11/24/moshi-overture-case-with-detachable-magnetic-wallet-for-iphone-13-pro/)
 - [Moshi Arx Clear Slim Hardshell Case for iPhone 13 Pro Max](https://lesterchan.net/blog/2021/11/22/moshi-arx-clear-slim-hardshell-case-for-iphone-13-pro-max/)
 - [Roborock S7 Review](https://lesterchan.net/blog/2021/11/19/roborock-s7-review/)
 - [Sony ZV-E10](https://lesterchan.net/blog/2021/11/17/sony-zv-e10/)
 - [Nintendo Switch &lpar;OLED Model&rpar;](https://lesterchan.net/blog/2021/11/15/nintendo-switch-oled-model/)
-- [Apple Watch Edition Series 7 &lpar;45mm Space Black Titanium Case&rpar;](https://lesterchan.net/blog/2021/11/08/apple-watch-edition-series-7-45mm-space-black-titanium-case/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
