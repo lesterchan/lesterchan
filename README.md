@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung Evo Select 512GB microSDXC UHS-I U3](https://lesterchan.net/blog/2021/12/02/samsung-evo-select-512gb-microsdxc-uhs-i-u3/)
 - [Dobe Joy-Con Charging Dock](https://lesterchan.net/blog/2021/11/30/dobe-joy-con-charging-dock/)
 - [Nintendo Joy-Con – Neon Purple/Neon Orange](https://lesterchan.net/blog/2021/11/26/nintendo-joy-con-neon-purple-neon-orange/)
 - [Moshi Overture Case with Detachable Magnetic Wallet For iPhone 13 Pro](https://lesterchan.net/blog/2021/11/24/moshi-overture-case-with-detachable-magnetic-wallet-for-iphone-13-pro/)
 - [Moshi Arx Clear Slim Hardshell Case for iPhone 13 Pro Max](https://lesterchan.net/blog/2021/11/22/moshi-arx-clear-slim-hardshell-case-for-iphone-13-pro-max/)
-- [Roborock S7 Review](https://lesterchan.net/blog/2021/11/19/roborock-s7-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
