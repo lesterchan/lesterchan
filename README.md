@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [EverDesk+ Max Standing Desk Review](https://lesterchan.net/blog/2021/12/13/everdesk-max-standing-desk-review/)
 - [Sonoff RM 433 Multipurpose Custom Remote Controller](https://lesterchan.net/blog/2021/12/07/sonoff-rm-433-multipurpose-custom-remote-controller/)
 - [Samsung Evo Select 512GB microSDXC UHS-I U3](https://lesterchan.net/blog/2021/12/02/samsung-evo-select-512gb-microsdxc-uhs-i-u3/)
 - [Dobe Joy-Con Charging Dock](https://lesterchan.net/blog/2021/11/30/dobe-joy-con-charging-dock/)
 - [Nintendo Joy-Con – Neon Purple/Neon Orange](https://lesterchan.net/blog/2021/11/26/nintendo-joy-con-neon-purple-neon-orange/)
-- [Moshi Overture Case with Detachable Magnetic Wallet For iPhone 13 Pro](https://lesterchan.net/blog/2021/11/24/moshi-overture-case-with-detachable-magnetic-wallet-for-iphone-13-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
