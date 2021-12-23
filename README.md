@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple iPhone Leather Wallet with MagSafe](https://lesterchan.net/blog/2021/12/23/apple-iphone-leather-wallet-with-magsafe/)
 - [FOREO ISSA 3 Toothbrush Review](https://lesterchan.net/blog/2021/12/20/foreo-issa-3-toothbrush-review/)
 - [EverDesk+ Max Standing Desk Review](https://lesterchan.net/blog/2021/12/13/everdesk-max-standing-desk-review/)
 - [Sonoff RM 433 Multipurpose Custom Remote Controller](https://lesterchan.net/blog/2021/12/07/sonoff-rm-433-multipurpose-custom-remote-controller/)
 - [Samsung Evo Select 512GB microSDXC UHS-I U3](https://lesterchan.net/blog/2021/12/02/samsung-evo-select-512gb-microsdxc-uhs-i-u3/)
-- [Dobe Joy-Con Charging Dock](https://lesterchan.net/blog/2021/11/30/dobe-joy-con-charging-dock/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
