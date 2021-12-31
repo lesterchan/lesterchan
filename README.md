@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking Back 2021](https://lesterchan.net/blog/2021/12/31/looking-back-2021/)
 - [KAWS:HOLIDAY Singapore Figure](https://lesterchan.net/blog/2021/12/27/kaws-holiday-singapore-figure/)
 - [Apple iPhone Leather Wallet with MagSafe](https://lesterchan.net/blog/2021/12/23/apple-iphone-leather-wallet-with-magsafe/)
 - [FOREO ISSA 3 Toothbrush Review](https://lesterchan.net/blog/2021/12/20/foreo-issa-3-toothbrush-review/)
 - [EverDesk+ Max Standing Desk Review](https://lesterchan.net/blog/2021/12/13/everdesk-max-standing-desk-review/)
-- [Sonoff RM 433 Multipurpose Custom Remote Controller](https://lesterchan.net/blog/2021/12/07/sonoff-rm-433-multipurpose-custom-remote-controller/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
