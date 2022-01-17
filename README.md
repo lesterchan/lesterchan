@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Roborock Auto-Empty Dock Review](https://lesterchan.net/blog/2022/01/17/roborock-auto-empty-dock-review/)
 - [Sonoff NSPanel Smart Scene Wall Switch Review](https://lesterchan.net/blog/2022/01/10/sonoff-nspanel-smart-scene-wall-switch-review/)
 - [Stack Overflow The Key Macropad](https://lesterchan.net/blog/2022/01/03/stack-overflow-the-key-macropad/)
 - [Looking Back 2021](https://lesterchan.net/blog/2021/12/31/looking-back-2021/)
 - [KAWS:HOLIDAY Singapore Figure](https://lesterchan.net/blog/2021/12/27/kaws-holiday-singapore-figure/)
-- [Apple iPhone Leather Wallet with MagSafe](https://lesterchan.net/blog/2021/12/23/apple-iphone-leather-wallet-with-magsafe/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
