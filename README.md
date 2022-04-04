@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sumlett USB-C to HDMI Cable](https://lesterchan.net/blog/2022/04/04/sumlett-usb-c-to-hdmi-cable/)
 - [ErgoTune Supreme V3 &lpar;2022&rpar;](https://lesterchan.net/blog/2022/03/30/ergotune-supreme-v3-2022/)
 - [Happy 38th Birthday To Me](https://lesterchan.net/blog/2022/03/25/happy-38th-birthday-to-me/)
 - [Xiaomi Mi Portable Electric Air Compressor 1S](https://lesterchan.net/blog/2022/02/28/xiaomi-mi-portable-electric-air-compressor-1s/)
 - [OEM Google Nest Hub Max Stand](https://lesterchan.net/blog/2022/02/21/oem-google-nest-hub-max-stand/)
-- [Yunteng Selfie Stick Tripod Stand](https://lesterchan.net/blog/2022/02/15/yunteng-selfie-stick-tripod-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
