@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Plugable DisplayLink 4K DisplayPort and HDMI Dual Monitor Adapter](https://lesterchan.net/blog/2022/04/11/plugable-displaylink-4k-displayport-and-hdmi-dual-monitor-adapter/)
 - [HyperJuice 4-in-1 Magnetic Wireless Charger Stand](https://lesterchan.net/blog/2022/04/06/hyperjuice-4-in-1-magnetic-wireless-charger-stand/)
 - [Sumlett USB-C to HDMI Cable](https://lesterchan.net/blog/2022/04/04/sumlett-usb-c-to-hdmi-cable/)
 - [ErgoTune Supreme V3 &lpar;2022&rpar;](https://lesterchan.net/blog/2022/03/30/ergotune-supreme-v3-2022/)
 - [Happy 38th Birthday To Me](https://lesterchan.net/blog/2022/03/25/happy-38th-birthday-to-me/)
-- [Xiaomi Mi Portable Electric Air Compressor 1S](https://lesterchan.net/blog/2022/02/28/xiaomi-mi-portable-electric-air-compressor-1s/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
