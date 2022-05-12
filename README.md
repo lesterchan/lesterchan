@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Passport III – 65W Travel Adapter](https://lesterchan.net/blog/2022/05/12/passport-iii-65w-travel-adapter/)
 - [Arlo Pro 4 Spotlight Camera Review](https://lesterchan.net/blog/2022/05/04/arlo-pro-4-spotlight-camera-review/)
 - [Roborock Q7 Max Review](https://lesterchan.net/blog/2022/04/26/roborock-q7-max-review/)
 - [Ugreen USB-C to 4-Port USB 3.0 Hub](https://lesterchan.net/blog/2022/04/20/ugreen-usb-c-to-4-port-usb-3-0-hub/)
 - [Plugable DisplayLink 4K DisplayPort and HDMI Dual Monitor Adapter](https://lesterchan.net/blog/2022/04/11/plugable-displaylink-4k-displayport-and-hdmi-dual-monitor-adapter/)
-- [HyperJuice 4-in-1 Magnetic Wireless Charger Stand](https://lesterchan.net/blog/2022/04/06/hyperjuice-4-in-1-magnetic-wireless-charger-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
