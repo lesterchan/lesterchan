@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sanus Wireless Speaker Stands](https://lesterchan.net/blog/2022/06/03/sanus-wireless-speaker-stands/)
 - [CalDigit TS4 Thunderbolt 4 Dock Review](https://lesterchan.net/blog/2022/05/30/caldigit-ts4-thunderbolt-4-dock-review/)
 - [Linksys Atlas Pro 6](https://lesterchan.net/blog/2022/05/23/linksys-atlas-pro-6/)
 - [Passport III – 65W Travel Adapter](https://lesterchan.net/blog/2022/05/12/passport-iii-65w-travel-adapter/)
 - [Arlo Pro 4 Spotlight Camera Review](https://lesterchan.net/blog/2022/05/04/arlo-pro-4-spotlight-camera-review/)
-- [Roborock Q7 Max Review](https://lesterchan.net/blog/2022/04/26/roborock-q7-max-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
