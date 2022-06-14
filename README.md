@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ugreen HDMI 2.1 Cable](https://lesterchan.net/blog/2022/06/14/ugreen-hdmi-2-1-cable/)
 - [Shure AONIC 40 Wireless Noise Cancelling Headphones](https://lesterchan.net/blog/2022/06/08/shure-aonic-40-wireless-noise-cancelling-headphones/)
 - [Sanus Wireless Speaker Stands](https://lesterchan.net/blog/2022/06/03/sanus-wireless-speaker-stands/)
 - [CalDigit TS4 Thunderbolt 4 Dock Review](https://lesterchan.net/blog/2022/05/30/caldigit-ts4-thunderbolt-4-dock-review/)
 - [Linksys Atlas Pro 6](https://lesterchan.net/blog/2022/05/23/linksys-atlas-pro-6/)
-- [Passport III – 65W Travel Adapter](https://lesterchan.net/blog/2022/05/12/passport-iii-65w-travel-adapter/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
