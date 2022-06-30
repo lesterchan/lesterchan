@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Poly Studio P5 Webcam Review](https://lesterchan.net/blog/2022/06/30/poly-studio-p5-webcam-review/)
 - [HDFury 4K Arcana 18Gbps](https://lesterchan.net/blog/2022/06/27/hdfury-4k-arcana-18gbps/)
 - [Sonos Arc](https://lesterchan.net/blog/2022/06/23/sonos-arc/)
 - [Ugreen HDMI 2.1 Cable](https://lesterchan.net/blog/2022/06/14/ugreen-hdmi-2-1-cable/)
 - [Shure AONIC 40 Wireless Noise Cancelling Headphones](https://lesterchan.net/blog/2022/06/08/shure-aonic-40-wireless-noise-cancelling-headphones/)
-- [Sanus Wireless Speaker Stands](https://lesterchan.net/blog/2022/06/03/sanus-wireless-speaker-stands/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
