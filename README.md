@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ugreen 200W Desktop Charger](https://lesterchan.net/blog/2022/07/07/ugreen-200w-desktop-charger/)
 - [Poly Sync 20 Speakerphone Review](https://lesterchan.net/blog/2022/07/04/poly-sync-20-speakerphone-review/)
 - [Poly Studio P5 Webcam Review](https://lesterchan.net/blog/2022/06/30/poly-studio-p5-webcam-review/)
 - [HDFury 4K Arcana 18Gbps](https://lesterchan.net/blog/2022/06/27/hdfury-4k-arcana-18gbps/)
 - [Sonos Arc](https://lesterchan.net/blog/2022/06/23/sonos-arc/)
-- [Ugreen HDMI 2.1 Cable](https://lesterchan.net/blog/2022/06/14/ugreen-hdmi-2-1-cable/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
