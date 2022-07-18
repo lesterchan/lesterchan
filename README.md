@@ -4,7 +4,7 @@
 
 🌏 I blogged about gadgets at [lesterchan.net](https://lesterchan.net).
 
-🥞 Currently working in [Grab](https://grab.com) as a Senior Software Engineer, Full Stack.
+🥞 Currently working in [Grab](https://grab.com) as a Engineering Manager, Full Stack.
 
 ⏪ Previously, I was the Head of Engineering in [Tech in Asia](https://www.techinasia.com).
 
