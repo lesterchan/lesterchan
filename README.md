@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple MagSafe Battery Pack](https://lesterchan.net/blog/2022/08/05/apple-magsafe-battery-pack/)
 - [Flipper Zero](https://lesterchan.net/blog/2022/07/28/flipper-zero/)
 - [Omron Upper Arm Blood Pressure Monitor &lpar;JPN500&rpar;](https://lesterchan.net/blog/2022/07/21/omron-upper-arm-blood-pressure-monitor-jpn500/)
 - [Apple 14″ MacBook Pro &lpar;2021&rpar;](https://lesterchan.net/blog/2022/07/18/apple-14-macbook-pro-2021/)
 - [Ugreen 200W Desktop Charger](https://lesterchan.net/blog/2022/07/07/ugreen-200w-desktop-charger/)
-- [Poly Sync 20 Speakerphone Review](https://lesterchan.net/blog/2022/07/04/poly-sync-20-speakerphone-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
