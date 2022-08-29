@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Roborock G10 Review](https://lesterchan.net/blog/2022/08/29/roborock-g10-review/)
 - [eero Pro 6 Review](https://lesterchan.net/blog/2022/08/17/eero-pro-6-review/)
 - [Ugreen DigiNest Pro Power Strip](https://lesterchan.net/blog/2022/08/11/ugreen-diginest-pro-power-strip/)
 - [Apple MagSafe Battery Pack](https://lesterchan.net/blog/2022/08/05/apple-magsafe-battery-pack/)
 - [Flipper Zero](https://lesterchan.net/blog/2022/07/28/flipper-zero/)
-- [Omron Upper Arm Blood Pressure Monitor &lpar;JPN500&rpar;](https://lesterchan.net/blog/2022/07/21/omron-upper-arm-blood-pressure-monitor-jpn500/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
