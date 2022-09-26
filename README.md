@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ugreen HDMI 2.1 Switch](https://lesterchan.net/blog/2022/09/26/ugreen-hdmi-2-1-switch/)
 - [QNAP TS-464 Review](https://lesterchan.net/blog/2022/09/20/qnap-ts-464-review/)
 - [Apple iPhone 14 Pro Max Clear Case with MagSafe](https://lesterchan.net/blog/2022/09/12/apple-iphone-14-pro-max-clear-case-with-magsafe/)
 - [Singtel iPhone 14, iPhone 14 Plus, 14 Pro, And 14 Pro Max Price Plans](https://lesterchan.net/blog/2022/09/09/singtel-iphone-14-iphone-14-plus-14-pro-and-14-pro-max-price-plans/)
 - [DreameBot L10s Ultra Review](https://lesterchan.net/blog/2022/09/05/dreamebot-l10s-ultra-review/)
-- [Roborock G10 Review](https://lesterchan.net/blog/2022/08/29/roborock-g10-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
