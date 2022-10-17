@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Pixel 7 Pro Review](https://lesterchan.net/blog/2022/10/17/google-pixel-7-pro-review/)
 - [Google Pixel 7 Pro Case](https://lesterchan.net/blog/2022/10/13/google-pixel-7-pro-case/)
 - [Ugreen Height Adjustable Aluminum Mobile Phone Holder](https://lesterchan.net/blog/2022/10/08/ugreen-height-adjustable-aluminum-mobile-phone-holder/)
 - [Knocki Review](https://lesterchan.net/blog/2022/10/03/knocki-review/)
 - [Ugreen HDMI 2.1 Switch](https://lesterchan.net/blog/2022/09/26/ugreen-hdmi-2-1-switch/)
-- [QNAP TS-464 Review](https://lesterchan.net/blog/2022/09/20/qnap-ts-464-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
