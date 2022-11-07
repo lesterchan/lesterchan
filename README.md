@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Benks Infinity Pro Magnetic iPad Stand](https://lesterchan.net/blog/2022/11/07/benks-infinity-pro-magnetic-ipad-stand/)
 - [Apple AirPods Pro &lpar;2nd Generation&rpar;](https://lesterchan.net/blog/2022/10/31/apple-airpods-pro-2nd-generation/)
 - [Dreame H12 Pro Wet &amp; Dry Vacuum Review](https://lesterchan.net/blog/2022/10/24/dreame-h12-pro-wet-dry-vacuum-review/)
 - [Google Pixel 7 Pro Review](https://lesterchan.net/blog/2022/10/17/google-pixel-7-pro-review/)
 - [Google Pixel 7 Pro Case](https://lesterchan.net/blog/2022/10/13/google-pixel-7-pro-case/)
-- [Ugreen Height Adjustable Aluminum Mobile Phone Holder](https://lesterchan.net/blog/2022/10/08/ugreen-height-adjustable-aluminum-mobile-phone-holder/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
