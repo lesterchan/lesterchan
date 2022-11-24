@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Logitech MX Master 3S Wireless Mouse](https://lesterchan.net/blog/2022/11/24/logitech-mx-master-3s-wireless-mouse/)
 - [Apple Watch Magnetic Fast Charger to USB-C Cable](https://lesterchan.net/blog/2022/11/21/apple-watch-magnetic-fast-charger-to-usb-c-cable/)
 - [Ugreen 65W Travel Charger](https://lesterchan.net/blog/2022/11/14/ugreen-65w-travel-charger/)
 - [Benks Infinity Pro Magnetic iPad Stand](https://lesterchan.net/blog/2022/11/07/benks-infinity-pro-magnetic-ipad-stand/)
 - [Apple AirPods Pro &lpar;2nd Generation&rpar;](https://lesterchan.net/blog/2022/10/31/apple-airpods-pro-2nd-generation/)
-- [Dreame H12 Pro Wet &amp; Dry Vacuum Review](https://lesterchan.net/blog/2022/10/24/dreame-h12-pro-wet-dry-vacuum-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
