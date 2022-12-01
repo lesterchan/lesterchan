@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Charby Orbit Powerbank](https://lesterchan.net/blog/2022/12/01/charby-orbit-powerbank/)
 - [Charby Orbit Stand – Adjustable MagSafe Stand](https://lesterchan.net/blog/2022/11/28/charby-orbit-stand-adjustable-magsafe-stand/)
 - [Logitech MX Master 3S Wireless Mouse](https://lesterchan.net/blog/2022/11/24/logitech-mx-master-3s-wireless-mouse/)
 - [Apple Watch Magnetic Fast Charger to USB-C Cable](https://lesterchan.net/blog/2022/11/21/apple-watch-magnetic-fast-charger-to-usb-c-cable/)
 - [Ugreen 65W Travel Charger](https://lesterchan.net/blog/2022/11/14/ugreen-65w-travel-charger/)
-- [Benks Infinity Pro Magnetic iPad Stand](https://lesterchan.net/blog/2022/11/07/benks-infinity-pro-magnetic-ipad-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
