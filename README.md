@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Lightning to 3.5mm Audio Cable](https://lesterchan.net/blog/2022/12/19/apple-lightning-to-3-5mm-audio-cable/)
 - [NuPhy Air75](https://lesterchan.net/blog/2022/12/12/nuphy-air75/)
 - [Rode NT-USB Mini](https://lesterchan.net/blog/2022/12/05/rode-nt-usb-mini/)
 - [Charby Orbit Powerbank](https://lesterchan.net/blog/2022/12/01/charby-orbit-powerbank/)
 - [Charby Orbit Stand – Adjustable MagSafe Stand](https://lesterchan.net/blog/2022/11/28/charby-orbit-stand-adjustable-magsafe-stand/)
-- [Logitech MX Master 3S Wireless Mouse](https://lesterchan.net/blog/2022/11/24/logitech-mx-master-3s-wireless-mouse/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
