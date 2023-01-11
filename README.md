@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ulanzi ST-27 Metal Phone Tripod Mount](https://lesterchan.net/blog/2023/01/11/ulanzi-st-27-metal-phone-tripod-mount/)
 - [Ulanzi U-PAD III Metal iPad Tripod Mount](https://lesterchan.net/blog/2023/01/04/ulanzi-u-pad-iii-metal-ipad-tripod-mount/)
 - [Looking Back 2022](https://lesterchan.net/blog/2022/12/31/looking-back-2022/)
 - [Rode PSA1+](https://lesterchan.net/blog/2022/12/27/rode-psa1/)
 - [Apple Lightning to 3.5mm Audio Cable](https://lesterchan.net/blog/2022/12/19/apple-lightning-to-3-5mm-audio-cable/)
-- [NuPhy Air75](https://lesterchan.net/blog/2022/12/12/nuphy-air75/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
