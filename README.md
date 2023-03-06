@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Niche Zero](https://lesterchan.net/blog/2023/03/06/niche-zero/)
 - [Aqara Smart Video Doorbell G4 Review](https://lesterchan.net/blog/2023/02/20/aqara-smart-video-doorbell-g4-review/)
 - [DYMO LabelManager 160](https://lesterchan.net/blog/2023/02/06/dymo-labelmanager-160/)
 - [Aqara Smart Wall Switch H1 EU &lpar;With Neutral&rpar;](https://lesterchan.net/blog/2023/01/25/aqara-smart-wall-switch-h1-eu-with-neutral/)
 - [Ulanzi ST-27 Metal Phone Tripod Mount](https://lesterchan.net/blog/2023/01/11/ulanzi-st-27-metal-phone-tripod-mount/)
-- [Ulanzi U-PAD III Metal iPad Tripod Mount](https://lesterchan.net/blog/2023/01/04/ulanzi-u-pad-iii-metal-ipad-tripod-mount/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
