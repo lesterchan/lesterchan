@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Arlo Go 2 LTE/Wi-Fi Security Camera Review](https://lesterchan.net/blog/2023/03/15/arlo-go-2-lte-wi-fi-security-camera-review/)
 - [Acaia Lunar](https://lesterchan.net/blog/2023/03/09/acaia-lunar/)
 - [Niche Zero](https://lesterchan.net/blog/2023/03/06/niche-zero/)
 - [Aqara Smart Video Doorbell G4 Review](https://lesterchan.net/blog/2023/02/20/aqara-smart-video-doorbell-g4-review/)
 - [DYMO LabelManager 160](https://lesterchan.net/blog/2023/02/06/dymo-labelmanager-160/)
-- [Aqara Smart Wall Switch H1 EU &lpar;With Neutral&rpar;](https://lesterchan.net/blog/2023/01/25/aqara-smart-wall-switch-h1-eu-with-neutral/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
