@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy 39th Birthday To Me](https://lesterchan.net/blog/2023/03/25/happy-39th-birthday-to-me/)
 - [Arlo Go 2 LTE/Wi-Fi Security Camera Review](https://lesterchan.net/blog/2023/03/15/arlo-go-2-lte-wi-fi-security-camera-review/)
 - [Acaia Lunar](https://lesterchan.net/blog/2023/03/09/acaia-lunar/)
 - [Niche Zero](https://lesterchan.net/blog/2023/03/06/niche-zero/)
 - [Aqara Smart Video Doorbell G4 Review](https://lesterchan.net/blog/2023/02/20/aqara-smart-video-doorbell-g4-review/)
-- [DYMO LabelManager 160](https://lesterchan.net/blog/2023/02/06/dymo-labelmanager-160/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
