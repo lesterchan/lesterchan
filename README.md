@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple HomePod And HomePod Mini Finally Officially Available in Singapore](https://lesterchan.net/blog/2023/03/28/apple-homepod-and-homepod-mini-finally-officially-available-in-singapore/)
 - [Happy 39th Birthday To Me](https://lesterchan.net/blog/2023/03/25/happy-39th-birthday-to-me/)
 - [Arlo Go 2 LTE/Wi-Fi Security Camera Review](https://lesterchan.net/blog/2023/03/15/arlo-go-2-lte-wi-fi-security-camera-review/)
 - [Acaia Lunar](https://lesterchan.net/blog/2023/03/09/acaia-lunar/)
 - [Niche Zero](https://lesterchan.net/blog/2023/03/06/niche-zero/)
-- [Aqara Smart Video Doorbell G4 Review](https://lesterchan.net/blog/2023/02/20/aqara-smart-video-doorbell-g4-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
