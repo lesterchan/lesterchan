@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Aqara Camera Hub G3 Review](https://lesterchan.net/blog/2023/05/29/aqara-camera-hub-g3-review/)
 - [Roborock S8 Pro Ultra Review](https://lesterchan.net/blog/2023/05/22/roborock-s8-pro-ultra-review/)
 - [Ugreen Nexode 65W Charger](https://lesterchan.net/blog/2023/05/15/ugreen-nexode-65w-charger/)
 - [Ugreen DigiNest Cube](https://lesterchan.net/blog/2023/05/08/ugreen-diginest-cube/)
 - [Aqara Presence Sensor FP2 Review](https://lesterchan.net/blog/2023/05/02/aqara-presence-sensor-fp2-review/)
-- [igloohome Bridge Review](https://lesterchan.net/blog/2023/04/25/igloohome-bridge-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
