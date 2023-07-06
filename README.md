@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [UNI-T Cable Tester &lpar;UT681C&rpar;](https://lesterchan.net/blog/2023/07/06/uni-t-cable-tester-ut681c/)
 - [Roborock Q Revo – First Roborock With Spinning Mop](https://lesterchan.net/blog/2023/06/16/roborock-q-revo-first-roborock-with-spinning-mop/)
 - [Dreame R20 Cordless Vacuum Cleaner Review](https://lesterchan.net/blog/2023/06/06/dreame-r20-cordless-vacuum-cleaner-review/)
 - [Aqara Camera Hub G3 Review](https://lesterchan.net/blog/2023/05/29/aqara-camera-hub-g3-review/)
 - [Roborock S8 Pro Ultra Review](https://lesterchan.net/blog/2023/05/22/roborock-s8-pro-ultra-review/)
-- [Ugreen Nexode 65W Charger](https://lesterchan.net/blog/2023/05/15/ugreen-nexode-65w-charger/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
