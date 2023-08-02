@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ugreen USB-A to USB-C Adapter](https://lesterchan.net/blog/2023/08/02/ugreen-usb-a-to-usb-c-adapter/)
 - [Belkin BoostCharge Pro Portable Fast Charger for Apple Watch](https://lesterchan.net/blog/2023/07/20/belkin-boostcharge-pro-portable-fast-charger-for-apple-watch/)
 - [UNI-T Cable Tester &lpar;UT681C&rpar;](https://lesterchan.net/blog/2023/07/06/uni-t-cable-tester-ut681c/)
 - [Roborock Q Revo – First Roborock With Spinning Mop](https://lesterchan.net/blog/2023/06/16/roborock-q-revo-first-roborock-with-spinning-mop/)
 - [Dreame R20 Cordless Vacuum Cleaner Review](https://lesterchan.net/blog/2023/06/06/dreame-r20-cordless-vacuum-cleaner-review/)
-- [Aqara Camera Hub G3 Review](https://lesterchan.net/blog/2023/05/29/aqara-camera-hub-g3-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
