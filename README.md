@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Choo Chiang Is The Cheapest Place To Get Legrand Products In Singapore](https://lesterchan.net/blog/2023/08/07/choo-chiang-is-the-cheapest-place-to-get-legrand-products-in-singapore/)
 - [Ugreen USB-A to USB-C Adapter](https://lesterchan.net/blog/2023/08/02/ugreen-usb-a-to-usb-c-adapter/)
 - [Belkin BoostCharge Pro Portable Fast Charger for Apple Watch](https://lesterchan.net/blog/2023/07/20/belkin-boostcharge-pro-portable-fast-charger-for-apple-watch/)
 - [UNI-T Cable Tester &lpar;UT681C&rpar;](https://lesterchan.net/blog/2023/07/06/uni-t-cable-tester-ut681c/)
 - [Roborock Q Revo – First Roborock With Spinning Mop](https://lesterchan.net/blog/2023/06/16/roborock-q-revo-first-roborock-with-spinning-mop/)
-- [Dreame R20 Cordless Vacuum Cleaner Review](https://lesterchan.net/blog/2023/06/06/dreame-r20-cordless-vacuum-cleaner-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
