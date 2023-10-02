@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Aqara Smart Door Lock D200i Review](https://lesterchan.net/blog/2023/10/02/aqara-smart-door-lock-d200i-review/)
 - [Apple Watch Alpine Loop &lpar;Orange&rpar;](https://lesterchan.net/blog/2023/09/27/apple-watch-alpine-loop-orange/)
 - [Aqara TVOC Air Quality Monitor](https://lesterchan.net/blog/2023/09/25/aqara-tvoc-air-quality-monitor/)
 - [Apple iPhone 15 Pro Max Clear Case](https://lesterchan.net/blog/2023/09/20/apple-iphone-15-pro-max-clear-case/)
 - [Aqara Temperature and Humidity Sensor](https://lesterchan.net/blog/2023/09/18/aqara-temperature-and-humidity-sensor/)
-- [Singtel iPhone 15, iPhone 15 Plus, 15 Pro, And 15 Pro Max Price Plans](https://lesterchan.net/blog/2023/09/14/singtel-iphone-15-iphone-15-plus-15-pro-and-15-pro-max-price-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
