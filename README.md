@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Mikit MT80](https://lesterchan.net/blog/2023/10/16/mikit-mt80/)
 - [Ariston Slim2 Lux-D Wi-Fi Review](https://lesterchan.net/blog/2023/10/09/ariston-slim2-lux-d-wi-fi-review/)
 - [Aqara Smart Door Lock D200i Review](https://lesterchan.net/blog/2023/10/02/aqara-smart-door-lock-d200i-review/)
 - [Apple Watch Alpine Loop &lpar;Orange&rpar;](https://lesterchan.net/blog/2023/09/27/apple-watch-alpine-loop-orange/)
 - [Aqara TVOC Air Quality Monitor](https://lesterchan.net/blog/2023/09/25/aqara-tvoc-air-quality-monitor/)
-- [Apple iPhone 15 Pro Max Clear Case](https://lesterchan.net/blog/2023/09/20/apple-iphone-15-pro-max-clear-case/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
