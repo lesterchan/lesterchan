@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Starling Home Hub](https://lesterchan.net/blog/2023/11/02/starling-home-hub/)
 - [Ulti Flex Single Monitor Arm](https://lesterchan.net/blog/2023/10/30/ulti-flex-single-monitor-arm/)
 - [Aqara Water Leak Sensor](https://lesterchan.net/blog/2023/10/26/aqara-water-leak-sensor/)
 - [Aqara Wireless Mini Switch](https://lesterchan.net/blog/2023/10/23/aqara-wireless-mini-switch/)
 - [Mikit MT80](https://lesterchan.net/blog/2023/10/16/mikit-mt80/)
-- [Ariston Slim2 Lux-D Wi-Fi Review](https://lesterchan.net/blog/2023/10/09/ariston-slim2-lux-d-wi-fi-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
