@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Aqara Wireless Remote Switch H1](https://lesterchan.net/blog/2023/11/06/aqara-wireless-remote-switch-h1/)
 - [Starling Home Hub](https://lesterchan.net/blog/2023/11/02/starling-home-hub/)
 - [Ulti Flex Single Monitor Arm](https://lesterchan.net/blog/2023/10/30/ulti-flex-single-monitor-arm/)
 - [Aqara Water Leak Sensor](https://lesterchan.net/blog/2023/10/26/aqara-water-leak-sensor/)
 - [Aqara Wireless Mini Switch](https://lesterchan.net/blog/2023/10/23/aqara-wireless-mini-switch/)
-- [Mikit MT80](https://lesterchan.net/blog/2023/10/16/mikit-mt80/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
