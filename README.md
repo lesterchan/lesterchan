@@ -32,4 +32,4 @@
 
 # GitHub Stats
 
-[![Lester Chan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesterchan&show_icons=true&private=true&include_all_commits=true "Lester Chan's GitHub Stats")](https://github.com/lesterchan)
+[![Lester Chan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesterchan&show_icons=true&theme=transparent&private=true&include_all_commits=true "Lester Chan's GitHub Stats")](https://github.com/lesterchan)
