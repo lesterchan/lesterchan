@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Aqara Camera E1 Review](https://lesterchan.net/blog/2023/11/29/aqara-camera-e1-review/)
 - [Aqara Motion Sensor P1](https://lesterchan.net/blog/2023/11/23/aqara-motion-sensor-p1/)
 - [Apple USB-C to Lightning Adapter](https://lesterchan.net/blog/2023/11/14/apple-usb-c-to-lightning-adapter/)
 - [Aqara Wireless Remote Switch H1](https://lesterchan.net/blog/2023/11/06/aqara-wireless-remote-switch-h1/)
 - [Starling Home Hub](https://lesterchan.net/blog/2023/11/02/starling-home-hub/)
-- [Ulti Flex Single Monitor Arm](https://lesterchan.net/blog/2023/10/30/ulti-flex-single-monitor-arm/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
