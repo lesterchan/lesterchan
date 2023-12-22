@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [GilletteLabs x Razer](https://lesterchan.net/blog/2023/12/22/gillettelabs-x-razer/)
 - [Sony PS5 “Slim” Digital Edition](https://lesterchan.net/blog/2023/12/19/sony-ps5-slim-digital-edition/)
 - [Roborock Dyad Air Review](https://lesterchan.net/blog/2023/12/13/roborock-dyad-air-review/)
 - [Aqara Camera E1 Review](https://lesterchan.net/blog/2023/11/29/aqara-camera-e1-review/)
 - [Aqara Motion Sensor P1](https://lesterchan.net/blog/2023/11/23/aqara-motion-sensor-p1/)
-- [Apple USB-C to Lightning Adapter](https://lesterchan.net/blog/2023/11/14/apple-usb-c-to-lightning-adapter/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
