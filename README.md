@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Samsung 990 Pro With Heatsink NVMe M.2 SSD](https://lesterchan.net/blog/2024/01/03/samsung-990-pro-with-heatsink-nvme-m-2-ssd/)
 - [Looking Back 2023](https://lesterchan.net/blog/2023/12/31/looking-back-2023/)
 - [Sony DualSense Charging Station For PS5](https://lesterchan.net/blog/2023/12/29/sony-dualsense-charging-station-for-ps5/)
 - [Sony DualSense Wireless Controller For PS5](https://lesterchan.net/blog/2023/12/26/sony-dualsense-wireless-controller-for-ps5/)
 - [GilletteLabs x Razer](https://lesterchan.net/blog/2023/12/22/gillettelabs-x-razer/)
-- [Sony PS5 “Slim” Digital Edition](https://lesterchan.net/blog/2023/12/19/sony-ps5-slim-digital-edition/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
