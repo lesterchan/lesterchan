@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Shure AONIC 50 Gen 2 Wireless Noise Cancelling Headphones Review](https://lesterchan.net/blog/2024/01/22/shure-aonic-50-gen-2-wireless-noise-cancelling-headphones-review/)
 - [UNI-T Mini Temperature Humidity Meter &lpar;UT333BT&rpar;](https://lesterchan.net/blog/2024/01/18/uni-t-mini-temperature-humidity-meter-ut333bt/)
 - [Belkin BoostCharge Pro 140W 4-Port GaN Wall Charger](https://lesterchan.net/blog/2024/01/15/belkin-boostcharge-pro-140w-4-port-gan-wall-charger/)
 - [Belkin BoostCharge USB-C to USB-C Cable 240W](https://lesterchan.net/blog/2024/01/11/belkin-boostcharge-usb-c-to-usb-c-cable-240w/)
 - [Omron Body Composition Monitor &lpar;HBF-222T&rpar;](https://lesterchan.net/blog/2024/01/08/omron-body-composition-monitor-hbf-222t/)
-- [Samsung 990 Pro With Heatsink NVMe M.2 SSD](https://lesterchan.net/blog/2024/01/03/samsung-990-pro-with-heatsink-nvme-m-2-ssd/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
