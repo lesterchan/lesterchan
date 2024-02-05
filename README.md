@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Belkin Marvel-themed Accessories](https://lesterchan.net/blog/2024/02/05/belkin-marvel-themed-accessories/)
 - [3D-Printed Wi-Fi QR Code](https://lesterchan.net/blog/2024/01/29/3d-printed-wi-fi-qr-code/)
 - [Shure AONIC 50 Gen 2 Wireless Noise Cancelling Headphones Review](https://lesterchan.net/blog/2024/01/22/shure-aonic-50-gen-2-wireless-noise-cancelling-headphones-review/)
 - [UNI-T Mini Temperature Humidity Meter &lpar;UT333BT&rpar;](https://lesterchan.net/blog/2024/01/18/uni-t-mini-temperature-humidity-meter-ut333bt/)
 - [Belkin BoostCharge Pro 140W 4-Port GaN Wall Charger](https://lesterchan.net/blog/2024/01/15/belkin-boostcharge-pro-140w-4-port-gan-wall-charger/)
-- [Belkin BoostCharge USB-C to USB-C Cable 240W](https://lesterchan.net/blog/2024/01/11/belkin-boostcharge-usb-c-to-usb-c-cable-240w/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
