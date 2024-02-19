@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Aqara Smart Wall Switch Z1 Pro](https://lesterchan.net/blog/2024/02/19/aqara-smart-wall-switch-z1-pro/)
 - [Apex+ Wireless Gaming Mice Review](https://lesterchan.net/blog/2024/02/12/apex-wireless-gaming-mice-review/)
 - [Belkin Marvel-themed Accessories](https://lesterchan.net/blog/2024/02/05/belkin-marvel-themed-accessories/)
 - [3D-Printed Wi-Fi QR Code](https://lesterchan.net/blog/2024/01/29/3d-printed-wi-fi-qr-code/)
 - [Shure AONIC 50 Gen 2 Wireless Noise Cancelling Headphones Review](https://lesterchan.net/blog/2024/01/22/shure-aonic-50-gen-2-wireless-noise-cancelling-headphones-review/)
-- [UNI-T Mini Temperature Humidity Meter &lpar;UT333BT&rpar;](https://lesterchan.net/blog/2024/01/18/uni-t-mini-temperature-humidity-meter-ut333bt/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
