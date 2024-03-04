@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Verbatim Tough Max Cables](https://lesterchan.net/blog/2024/03/04/verbatim-tough-max-cables/)
 - [Verbatim 4-Port 100W PD Travel Charger](https://lesterchan.net/blog/2024/02/28/verbatim-4-port-100w-pd-travel-charger/)
 - [Aqara Smart Wall Switch Z1 Pro](https://lesterchan.net/blog/2024/02/19/aqara-smart-wall-switch-z1-pro/)
 - [Apex+ Wireless Gaming Mice Review](https://lesterchan.net/blog/2024/02/12/apex-wireless-gaming-mice-review/)
 - [Belkin Marvel-themed Accessories](https://lesterchan.net/blog/2024/02/05/belkin-marvel-themed-accessories/)
-- [3D-Printed Wi-Fi QR Code](https://lesterchan.net/blog/2024/01/29/3d-printed-wi-fi-qr-code/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
