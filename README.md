@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Divoom Times Gate](https://lesterchan.net/blog/2024/03/19/divoom-times-gate/)
 - [ULTIDESK Xtreme Standing Desk Review](https://lesterchan.net/blog/2024/03/14/ultidesk-xtreme-standing-desk-review/)
 - [Asus ROG Cetra True Wireless SpeedNova Review](https://lesterchan.net/blog/2024/03/11/asus-rog-cetra-true-wireless-speednova-review/)
 - [Verbatim Tough Max Cables](https://lesterchan.net/blog/2024/03/04/verbatim-tough-max-cables/)
 - [Verbatim 4-Port 100W PD Travel Charger](https://lesterchan.net/blog/2024/02/28/verbatim-4-port-100w-pd-travel-charger/)
-- [Aqara Smart Wall Switch Z1 Pro](https://lesterchan.net/blog/2024/02/19/aqara-smart-wall-switch-z1-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
