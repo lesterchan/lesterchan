@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Yubico NFC Security Keys](https://lesterchan.net/blog/2024/04/22/yubico-nfc-security-keys/)
 - [Prolink PRO1201SFCU UPS](https://lesterchan.net/blog/2024/04/15/prolink-pro1201sfcu-ups/)
 - [Our Play &amp; Work From Home Setup 2024](https://lesterchan.net/blog/2024/04/08/our-play-work-from-home-setup-2024/)
 - [Belkin BoostCharge Pro 140W 4-Port GaN Wall Charger &lpar;With US, EU, UK Tips&rpar;](https://lesterchan.net/blog/2024/04/01/belkin-boostcharge-pro-140w-4-port-gan-wall-charger-with-us-eu-uk-tips/)
 - [Happy 40th Birthday To Me](https://lesterchan.net/blog/2024/03/25/happy-40th-birthday-to-me/)
-- [Divoom Times Gate](https://lesterchan.net/blog/2024/03/19/divoom-times-gate/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
