@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Aqara Door &amp; Window Sensor P2 Review](https://lesterchan.net/blog/2024/05/20/aqara-door-window-sensor-p2-review/)
 - [Aqara Hub M3 Review](https://lesterchan.net/blog/2024/05/13/aqara-hub-m3-review/)
 - [Spigen Lock Fit &lpar;MagFit&rpar;](https://lesterchan.net/blog/2024/05/07/spigen-lock-fit-magfit/)
 - [Asus ROG Keris II Ace Gaming Mouse Review](https://lesterchan.net/blog/2024/05/02/asus-rog-keris-ii-ace-gaming-mouse-review/)
 - [Asus ROG Strix Scope II 96 Wireless Gaming Keyboard Review](https://lesterchan.net/blog/2024/04/29/asus-rog-strix-scope-ii-96-wireless-gaming-keyboard-review/)
-- [Yubico NFC Security Keys](https://lesterchan.net/blog/2024/04/22/yubico-nfc-security-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
