@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [My Smart Home Journey 2](https://lesterchan.net/blog/2024/06/10/my-smart-home-journey-2/)
 - [Anker MagGo Wireless Charging Station](https://lesterchan.net/blog/2024/06/03/anker-maggo-wireless-charging-station/)
 - [Aqara Motion &amp; Light Sensor P2 Review](https://lesterchan.net/blog/2024/05/27/aqara-motion-light-sensor-p2-review/)
 - [Aqara Door &amp; Window Sensor P2 Review](https://lesterchan.net/blog/2024/05/20/aqara-door-window-sensor-p2-review/)
 - [Aqara Hub M3 Review](https://lesterchan.net/blog/2024/05/13/aqara-hub-m3-review/)
-- [Spigen Lock Fit &lpar;MagFit&rpar;](https://lesterchan.net/blog/2024/05/07/spigen-lock-fit-magfit/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
