@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Pencil Pro](https://lesterchan.net/blog/2024/07/08/apple-pencil-pro/)
 - [Singapore Changi Airport iPad Pro 11″ &lpar;M4&rpar; Prices](https://lesterchan.net/blog/2024/07/02/singapore-changi-airport-ipad-pro-11-m4-prices/)
 - [My Smart Home Accessories](https://lesterchan.net/blog/2024/06/24/my-smart-home-accessories/)
 - [Aqara Curtain Driver E1 &lpar;Track Version&rpar; Review](https://lesterchan.net/blog/2024/06/18/aqara-curtain-driver-e1-track-version-review/)
 - [My Smart Home Journey 2](https://lesterchan.net/blog/2024/06/10/my-smart-home-journey-2/)
-- [Anker MagGo Wireless Charging Station](https://lesterchan.net/blog/2024/06/03/anker-maggo-wireless-charging-station/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
