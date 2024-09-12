@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Singtel iPhone 16, iPhone 16 Plus, 16 Pro, And 16 Pro Max Price Plans](https://lesterchan.net/blog/2024/09/12/singtel-iphone-16-iphone-16-plus-16-pro-and-16-pro-max-price-plans/)
 - [What’s In My Travel Gadget Pouch?](https://lesterchan.net/blog/2024/08/12/whats-in-my-travel-gadget-pouch/)
 - [Spigen Valentinus 3 Cards &lpar;MagFit&rpar;](https://lesterchan.net/blog/2024/07/18/spigen-valentinus-3-cards-magfit/)
 - [Apple Pencil Pro](https://lesterchan.net/blog/2024/07/08/apple-pencil-pro/)
 - [Singapore Changi Airport iPad Pro 11″ &lpar;M4&rpar; Prices](https://lesterchan.net/blog/2024/07/02/singapore-changi-airport-ipad-pro-11-m4-prices/)
-- [My Smart Home Accessories](https://lesterchan.net/blog/2024/06/24/my-smart-home-accessories/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
