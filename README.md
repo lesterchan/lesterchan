@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus ZenWiFi BQ16 Mesh Router Review](https://lesterchan.net/blog/2024/11/11/asus-zenwifi-bq16-mesh-router-review/)
 - [Benks ArmorPro Aurora Case For iPhone 16 Pro Max](https://lesterchan.net/blog/2024/11/04/benks-armorpro-aurora-case-for-iphone-16-pro-max/)
 - [Benks ArmorPro Case For iPhone 16 Pro Max](https://lesterchan.net/blog/2024/10/28/benks-armorpro-case-for-iphone-16-pro-max/)
 - [TP-Link 8-Port 10G Desktop/Rackmount Switch &lpar;TL-SX1008&rpar;](https://lesterchan.net/blog/2024/10/14/tp-link-8-port-10g-desktop-rackmount-switch-tl-sx1008/)
 - [Benks ArmorAir Case For iPhone 16 Pro Max](https://lesterchan.net/blog/2024/10/07/benks-armorair-case-for-iphone-16-pro-max/)
-- [Benks Lucent Pro Case For iPhone 16 Pro Max](https://lesterchan.net/blog/2024/09/30/benks-lucent-pro-case-for-iphone-16-pro-max/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
