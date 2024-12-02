@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ugreen Bluetooth 5.2 Audio Transmitter/Receiver](https://lesterchan.net/blog/2024/12/02/ugreen-bluetooth-5-2-audio-transmitter-receiver/)
 - [Apple Watch 49mm Natural Titanium Milanese Loop](https://lesterchan.net/blog/2024/11/25/apple-watch-49mm-natural-titanium-milanese-loop/)
 - [Ray-Ban Meta Wayfarer Review](https://lesterchan.net/blog/2024/11/18/ray-ban-meta-wayfarer-review/)
 - [Asus ZenWiFi BQ16 Mesh Router Review](https://lesterchan.net/blog/2024/11/11/asus-zenwifi-bq16-mesh-router-review/)
 - [Benks ArmorPro Aurora Case For iPhone 16 Pro Max](https://lesterchan.net/blog/2024/11/04/benks-armorpro-aurora-case-for-iphone-16-pro-max/)
-- [Benks ArmorPro Case For iPhone 16 Pro Max](https://lesterchan.net/blog/2024/10/28/benks-armorpro-case-for-iphone-16-pro-max/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
