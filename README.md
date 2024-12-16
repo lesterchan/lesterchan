@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Sharge Icemag 2 Power Bank](https://lesterchan.net/blog/2024/12/16/sharge-icemag-2-power-bank/)
 - [Anker Prime Charger 250W 6-Port GaNPrime Charger](https://lesterchan.net/blog/2024/12/09/anker-prime-charger-250w-6-port-ganprime-charger/)
 - [Ugreen Bluetooth 5.2 Audio Transmitter/Receiver](https://lesterchan.net/blog/2024/12/02/ugreen-bluetooth-5-2-audio-transmitter-receiver/)
 - [Apple Watch 49mm Natural Titanium Milanese Loop](https://lesterchan.net/blog/2024/11/25/apple-watch-49mm-natural-titanium-milanese-loop/)
 - [Ray-Ban Meta Wayfarer Review](https://lesterchan.net/blog/2024/11/18/ray-ban-meta-wayfarer-review/)
-- [Asus ZenWiFi BQ16 Mesh Router Review](https://lesterchan.net/blog/2024/11/11/asus-zenwifi-bq16-mesh-router-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
