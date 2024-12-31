@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking Back 2024](https://lesterchan.net/blog/2024/12/31/looking-back-2024/)
 - [Native Union Voyage 2-in-1 Magnetic Wireless Charger](https://lesterchan.net/blog/2024/12/27/native-union-voyage-2-in-1-magnetic-wireless-charger/)
 - [Veger P15 Power Bank](https://lesterchan.net/blog/2024/12/23/veger-p15-power-bank/)
 - [eero Now Officially Available In Singapore](https://lesterchan.net/blog/2024/12/19/eero-now-officially-available-in-singapore/)
 - [Sharge Icemag 2 Power Bank](https://lesterchan.net/blog/2024/12/16/sharge-icemag-2-power-bank/)
-- [Anker Prime Charger 250W 6-Port GaNPrime Charger](https://lesterchan.net/blog/2024/12/09/anker-prime-charger-250w-6-port-ganprime-charger/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
