@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [SanDisk MobileMate USB 3.0 microSD Card Reader](https://lesterchan.net/blog/2025/02/10/sandisk-mobilemate-usb-3-0-microsd-card-reader/)
 - [Ugreen 130W 3-Port Car Charger](https://lesterchan.net/blog/2025/02/03/ugreen-130w-3-port-car-charger/)
 - [Ugreen Uno 2-in-1 Magnetic Wireless Charger](https://lesterchan.net/blog/2025/01/21/ugreen-uno-2-in-1-magnetic-wireless-charger/)
 - [Ulti Anti-Fatigue Standing Mat](https://lesterchan.net/blog/2025/01/13/ulti-anti-fatigue-standing-mat/)
 - [Belkin Secure Holder with Key Ring for AirTag](https://lesterchan.net/blog/2025/01/06/belkin-secure-holder-with-key-ring-for-airtag/)
-- [Looking Back 2024](https://lesterchan.net/blog/2024/12/31/looking-back-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
