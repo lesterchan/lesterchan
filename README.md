@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Belkin BoostCharge Pro Magnetic Power Bank 10K](https://lesterchan.net/blog/2025/02/24/belkin-boostcharge-pro-magnetic-power-bank-10k/)
 - [Tesla Model 3 Highland &lpar;2025&rpar; Rear-Wheel Drive &lpar;RWD&rpar; COE Category B](https://lesterchan.net/blog/2025/02/17/tesla-model-3-highland-2025-rear-wheel-drive-rwd-coe-category-b/)
 - [SanDisk MobileMate USB 3.0 microSD Card Reader](https://lesterchan.net/blog/2025/02/10/sandisk-mobilemate-usb-3-0-microsd-card-reader/)
 - [Ugreen 130W 3-Port Car Charger](https://lesterchan.net/blog/2025/02/03/ugreen-130w-3-port-car-charger/)
 - [Ugreen Uno 2-in-1 Magnetic Wireless Charger](https://lesterchan.net/blog/2025/01/21/ugreen-uno-2-in-1-magnetic-wireless-charger/)
-- [Ulti Anti-Fatigue Standing Mat](https://lesterchan.net/blog/2025/01/13/ulti-anti-fatigue-standing-mat/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
