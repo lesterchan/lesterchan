@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [My Tesla Model 3 Highland &lpar;2025&rpar; Modifications](https://lesterchan.net/blog/2025/04/21/my-tesla-model-3-highland-2025-modifications/)
 - [Niimbot D110 Portable Label Printer](https://lesterchan.net/blog/2025/04/14/niimbot-d110-portable-label-printer/)
 - [Anker 2-in-1 USB-C to USB-C 140W Cable](https://lesterchan.net/blog/2025/04/07/anker-2-in-1-usb-c-to-usb-c-140w-cable/)
 - [Benks ArmorPop Phone Grip &amp; Stand](https://lesterchan.net/blog/2025/04/01/benks-armorpop-phone-grip-stand/)
 - [Happy 41st Birthday To Me](https://lesterchan.net/blog/2025/03/25/happy-41st-birthday-to-me/)
-- [Belkin BoostCharge Pro 3-in-1 Magnetic Wireless Charging Travel Pad](https://lesterchan.net/blog/2025/03/17/belkin-boostcharge-pro-3-in-1-magnetic-wireless-charging-travel-pad/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
