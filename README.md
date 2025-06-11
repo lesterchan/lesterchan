@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Benks Grand Headphone Stand](https://lesterchan.net/blog/2025/06/11/benks-grand-headphone-stand/)
 - [Benks ArmorGo Magnetic Wallet Stand](https://lesterchan.net/blog/2025/05/26/benks-armorgo-magnetic-wallet-stand/)
 - [Charging Discounts For Tesla In Singapore](https://lesterchan.net/blog/2025/05/05/charging-discounts-for-tesla-in-singapore/)
 - [Third-Party Tesla Apps: TezLab, Tessie, TeslaMate](https://lesterchan.net/blog/2025/04/28/third-party-tesla-apps-tezlab-tessie-teslamate/)
 - [My Tesla Model 3 Highland &lpar;2025&rpar; Modifications](https://lesterchan.net/blog/2025/04/21/my-tesla-model-3-highland-2025-modifications/)
-- [Niimbot D110 Portable Label Printer](https://lesterchan.net/blog/2025/04/14/niimbot-d110-portable-label-printer/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
