@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ugreen USB-C To USB-C 100W Retractable Cable](https://lesterchan.net/blog/2025/07/15/ugreen-usb-c-to-usb-c-100w-retractable-cable/)
 - [Benks ArmorGo Power Bank](https://lesterchan.net/blog/2025/07/01/benks-armorgo-power-bank/)
 - [Benks Grand Headphone Stand](https://lesterchan.net/blog/2025/06/11/benks-grand-headphone-stand/)
 - [Benks ArmorGo Magnetic Wallet Stand](https://lesterchan.net/blog/2025/05/26/benks-armorgo-magnetic-wallet-stand/)
 - [Charging Discounts For Tesla In Singapore](https://lesterchan.net/blog/2025/05/05/charging-discounts-for-tesla-in-singapore/)
-- [Third-Party Tesla Apps: TezLab, Tessie, TeslaMate](https://lesterchan.net/blog/2025/04/28/third-party-tesla-apps-tezlab-tessie-teslamate/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
