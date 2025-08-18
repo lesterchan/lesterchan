@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Moving To Ubiquiti Unifi](https://lesterchan.net/blog/2025/08/18/moving-to-ubiquiti-unifi/)
 - [Mova P50 Ultra Review](https://lesterchan.net/blog/2025/08/11/mova-p50-ultra-review/)
 - [Orico Thunderbolt 10GbE Network Adapter](https://lesterchan.net/blog/2025/08/04/orico-thunderbolt-10gbe-network-adapter/)
 - [Bridging Singtel ZTE F8648P ONR](https://lesterchan.net/blog/2025/07/28/bridging-singtel-zte-f8648p-onr/)
 - [Benks ArmorGo Qi2 Power Bank](https://lesterchan.net/blog/2025/07/21/benks-armorgo-qi2-power-bank/)
-- [Ugreen USB-C To USB-C 100W Retractable Cable](https://lesterchan.net/blog/2025/07/15/ugreen-usb-c-to-usb-c-100w-retractable-cable/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
