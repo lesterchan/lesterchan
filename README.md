@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Apex+ EVO G27 27″ QHD &lpar;2560 x 1440&rpar; Monitor Review](https://lesterchan.net/blog/2025/09/01/apex-evo-g27-27-qhd-2560-x-1440-monitor-review/)
 - [Synology BeeStation Plus 8TB Review](https://lesterchan.net/blog/2025/08/25/synology-beestation-plus-8tb-review/)
 - [Moving To Ubiquiti UniFi](https://lesterchan.net/blog/2025/08/18/moving-to-ubiquiti-unifi/)
 - [Mova P50 Ultra Review](https://lesterchan.net/blog/2025/08/11/mova-p50-ultra-review/)
 - [Orico Thunderbolt 10GbE Network Adapter](https://lesterchan.net/blog/2025/08/04/orico-thunderbolt-10gbe-network-adapter/)
-- [Bridging Singtel ZTE F8648P ONR](https://lesterchan.net/blog/2025/07/28/bridging-singtel-zte-f8648p-onr/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
