@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Singtel iPhone Air, iPhone 17, 17 Pro, And 17 Pro Max Price Plans](https://lesterchan.net/blog/2025/09/12/singtel-iphone-air-iphone-17-17-pro-and-17-pro-max-price-plans/)
 - [My Ubiquiti UniFi Setup](https://lesterchan.net/blog/2025/09/08/my-ubiquiti-unifi-setup/)
 - [Apex+ EVO G27 27″ QHD &lpar;2560 x 1440&rpar; Monitor Review](https://lesterchan.net/blog/2025/09/01/apex-evo-g27-27-qhd-2560-x-1440-monitor-review/)
 - [Synology BeeStation Plus 8TB Review](https://lesterchan.net/blog/2025/08/25/synology-beestation-plus-8tb-review/)
 - [Moving To Ubiquiti UniFi](https://lesterchan.net/blog/2025/08/18/moving-to-ubiquiti-unifi/)
-- [Mova P50 Ultra Review](https://lesterchan.net/blog/2025/08/11/mova-p50-ultra-review/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
