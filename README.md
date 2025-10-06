@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ugreen MagFlow 2-In-1 Magnetic Wireless Charger](https://lesterchan.net/blog/2025/10/06/ugreen-magflow-2-in-1-magnetic-wireless-charger/)
 - [Ugreen MagFlow Magnetic Wireless Power Bank](https://lesterchan.net/blog/2025/09/29/ugreen-magflow-magnetic-wireless-power-bank/)
 - [Benks ArmorPro Prestige Case For iPhone 17 Pro Max](https://lesterchan.net/blog/2025/09/22/benks-armorpro-prestige-case-for-iphone-17-pro-max/)
 - [Benks GlassWarrior Sapphire Screen Protector For iPhone 17 Pro Max](https://lesterchan.net/blog/2025/09/20/benks-glasswarrior-sapphire-screen-protector-for-iphone-17-pro-max/)
 - [D-Link 5G Mobile Wi-Fi 6 Hotspot &lpar;DWR-U2100&rpar;](https://lesterchan.net/blog/2025/09/18/d-link-5g-mobile-wi-fi-6-hotspot-dwr-u2100/)
-- [Singtel iPhone Air, iPhone 17, 17 Pro, And 17 Pro Max Price Plans](https://lesterchan.net/blog/2025/09/12/singtel-iphone-air-iphone-17-17-pro-and-17-pro-max-price-plans/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
