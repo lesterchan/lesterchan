@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [AirGradient One Indoor Monitor &lpar;I-9PSL&rpar; Review](https://lesterchan.net/blog/2025/10/20/airgradient-one-indoor-monitor-i-9psl-review/)
 - [Benks ArmorGrid ArmorAir Grand Combo For iPhone 17 Pro Max](https://lesterchan.net/blog/2025/10/13/benks-armorgrid-armorair-grand-combo-for-iphone-17-pro-max/)
 - [Ugreen MagFlow 2-In-1 Magnetic Wireless Charger](https://lesterchan.net/blog/2025/10/06/ugreen-magflow-2-in-1-magnetic-wireless-charger/)
 - [Ugreen MagFlow Magnetic Wireless Power Bank](https://lesterchan.net/blog/2025/09/29/ugreen-magflow-magnetic-wireless-power-bank/)
 - [Benks ArmorPro Prestige Case For iPhone 17 Pro Max](https://lesterchan.net/blog/2025/09/22/benks-armorpro-prestige-case-for-iphone-17-pro-max/)
-- [Benks GlassWarrior Sapphire Screen Protector For iPhone 17 Pro Max](https://lesterchan.net/blog/2025/09/20/benks-glasswarrior-sapphire-screen-protector-for-iphone-17-pro-max/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
