@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Logitech Brio 4K Webcam](https://lesterchan.net/blog/2025/12/08/logitech-brio-4k-webcam/)
 - [Ulti Ergo Clamp-On Speaker Stand](https://lesterchan.net/blog/2025/12/04/ulti-ergo-clamp-on-speaker-stand/)
 - [Edifier MR5 Studio Monitor Speakers](https://lesterchan.net/blog/2025/12/01/edifier-mr5-studio-monitor-speakers/)
 - [Anker 25000mAh 165W Power Bank](https://lesterchan.net/blog/2025/11/27/anker-25000mah-165w-power-bank/)
 - [Ulti Glide Heavy-Duty Caster Wheels &lpar;M8&rpar;](https://lesterchan.net/blog/2025/11/24/ulti-glide-heavy-duty-caster-wheels-m8/)
-- [My New Computer AMD Ryzen 7 9800X3D](https://lesterchan.net/blog/2025/11/17/my-new-computer-amd-ryzen-7-9800x3d/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
