@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus ROG Keris II Origin Gaming Mouse Review](https://lesterchan.net/blog/2025/12/22/asus-rog-keris-ii-origin-gaming-mouse-review/)
 - [Asus ROG Swift OLED PG32UCDM Monitor Review](https://lesterchan.net/blog/2025/12/15/asus-rog-swift-oled-pg32ucdm-monitor-review/)
 - [Logitech Brio 4K Webcam](https://lesterchan.net/blog/2025/12/08/logitech-brio-4k-webcam/)
 - [Ulti Ergo Clamp-On Speaker Stand](https://lesterchan.net/blog/2025/12/04/ulti-ergo-clamp-on-speaker-stand/)
 - [Edifier MR5 Studio Monitor Speakers](https://lesterchan.net/blog/2025/12/01/edifier-mr5-studio-monitor-speakers/)
-- [Anker 25000mAh 165W Power Bank](https://lesterchan.net/blog/2025/11/27/anker-25000mah-165w-power-bank/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
