@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Looking Back 2025](https://lesterchan.net/blog/2025/12/31/looking-back-2025/)
 - [Asus ROG Falchion Ace HFX ZywOo Edition Gaming Keyboard Review](https://lesterchan.net/blog/2025/12/29/asus-rog-falchion-ace-hfx-zywoo-edition-gaming-keyboard-review/)
 - [Asus ROG Keris II Origin Gaming Mouse Review](https://lesterchan.net/blog/2025/12/22/asus-rog-keris-ii-origin-gaming-mouse-review/)
 - [Asus ROG Swift OLED PG32UCDM Monitor Review](https://lesterchan.net/blog/2025/12/15/asus-rog-swift-oled-pg32ucdm-monitor-review/)
 - [Logitech Brio 4K Webcam](https://lesterchan.net/blog/2025/12/08/logitech-brio-4k-webcam/)
-- [Ulti Ergo Clamp-On Speaker Stand](https://lesterchan.net/blog/2025/12/04/ulti-ergo-clamp-on-speaker-stand/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
