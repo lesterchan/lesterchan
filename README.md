@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple AirTag &lpar;2nd Generation&rpar;](https://lesterchan.net/blog/2026/03/06/apple-airtag-2nd-generation/)
 - [Kuxiu X40 Turbo Wireless Charging Station](https://lesterchan.net/blog/2026/02/02/kuxiu-x40-turbo-wireless-charging-station/)
 - [Benks Mist Case For iPhone 17 Pro Max](https://lesterchan.net/blog/2026/01/26/benks-mist-case-for-iphone-17-pro-max/)
 - [Benks ArmorGrid ArmorPro Case For iPhone 17 Pro Max](https://lesterchan.net/blog/2026/01/19/benks-armorgrid-armorpro-case-for-iphone-17-pro-max/)
 - [Anker USB-C to USB-C Cable &lpar;240W&rpar;](https://lesterchan.net/blog/2026/01/12/anker-usb-c-to-usb-c-cable-240w/)
-- [Sharge Retractable 65W Charger](https://lesterchan.net/blog/2026/01/05/sharge-retractable-65w-charger/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
