@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Happy 42nd Birthday To Me](https://lesterchan.net/blog/2026/03/25/happy-42nd-birthday-to-me/)
 - [Belkin BoostCharge Pro Power Bank 10K With Apple Watch Charger](https://lesterchan.net/blog/2026/03/16/belkin-boostcharge-pro-power-bank-10k-with-apple-watch-charger/)
 - [Belkin BoostCharge Slim Magnetic Power Bank 5K](https://lesterchan.net/blog/2026/03/09/belkin-boostcharge-slim-magnetic-power-bank-5k/)
 - [Apple AirTag &lpar;2nd Generation&rpar;](https://lesterchan.net/blog/2026/03/06/apple-airtag-2nd-generation/)
 - [Kuxiu X40 Turbo Wireless Charging Station](https://lesterchan.net/blog/2026/02/02/kuxiu-x40-turbo-wireless-charging-station/)
-- [Benks Mist Case For iPhone 17 Pro Max](https://lesterchan.net/blog/2026/01/26/benks-mist-case-for-iphone-17-pro-max/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
