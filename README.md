@@ -23,11 +23,11 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Belkin UltraCharge Pro 3-in-1 Magnetic Charging Dock](https://lesterchan.net/blog/2026/04/20/belkin-ultracharge-pro-3-in-1-magnetic-charging-dock/)
 - [Belkin UltraCharge 3-in-1 Foldable Magnetic Charger](https://lesterchan.net/blog/2026/03/30/belkin-ultracharge-3-in-1-foldable-magnetic-charger/)
 - [Happy 42nd Birthday To Me](https://lesterchan.net/blog/2026/03/25/happy-42nd-birthday-to-me/)
 - [Belkin BoostCharge Pro Power Bank 10K With Apple Watch Charger](https://lesterchan.net/blog/2026/03/16/belkin-boostcharge-pro-power-bank-10k-with-apple-watch-charger/)
 - [Belkin BoostCharge Slim Magnetic Power Bank 5K](https://lesterchan.net/blog/2026/03/09/belkin-boostcharge-slim-magnetic-power-bank-5k/)
-- [Apple AirTag &lpar;2nd Generation&rpar;](https://lesterchan.net/blog/2026/03/06/apple-airtag-2nd-generation/)
 <!-- BLOG-POST-LIST:END -->
 
 # GitHub Stats
