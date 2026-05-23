@@ -29,7 +29,3 @@
 - [Happy 42nd Birthday To Me](https://lesterchan.net/blog/2026/03/25/happy-42nd-birthday-to-me/)
 - [Belkin BoostCharge Pro Power Bank 10K With Apple Watch Charger](https://lesterchan.net/blog/2026/03/16/belkin-boostcharge-pro-power-bank-10k-with-apple-watch-charger/)
 <!-- BLOG-POST-LIST:END -->
-
-# GitHub Stats
-
-[![Lester Chan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lesterchan&show_icons=true&theme=transparent&private=true&include_all_commits=true "Lester Chan's GitHub Stats")](https://github.com/lesterchan)
