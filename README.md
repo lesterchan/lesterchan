@@ -12,13 +12,10 @@
 
 ## 🔎 Find Me
 
-[![Email: lesterchan@gmail.com](https://cdn.jsdelivr.net/npm/@coreui/icons@1.0.1/png/brand/32x32/cib-gmail.png "Email: lesterchan@gmail.com")](mailto:lesterchan@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![LinkedIn: https://www.linkedin.com/in/lesterchan](https://cdn.jsdelivr.net/npm/@coreui/icons@1.0.1/png/brand/32x32/cib-linkedin.png "LinkedIn: https://www.linkedin.com/in/lesterchan")](https://www.linkedin.com/in/lesterchan)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitter: @gamerz](https://cdn.jsdelivr.net/npm/@coreui/icons@1.0.1/png/brand/32x32/cib-twitter.png "Twitter: @gamerz")](https://twitter.com/gamerz)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Instagram: @gamerz](https://cdn.jsdelivr.net/npm/@coreui/icons@1.0.1/png/brand/32x32/cib-instagram.png "Instagram: @gamerz")](https://instagram.com/gamerz)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesterchan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lesterchan)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/gamerz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gamerz)
 
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
