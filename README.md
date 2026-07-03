@@ -20,9 +20,9 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [lesterchan.net v6.0](https://lesterchan.net/blog/2026/07/03/lesterchan-net-v6-0/)
 - [Asus RT-BE58 Go Travel Router Review](https://lesterchan.net/blog/2026/06/15/asus-rt-be58-go-travel-router-review/)
 - [Asus ROG Strix Morph 96 Wireless Gaming Keyboard Review](https://lesterchan.net/blog/2026/06/04/asus-rog-strix-morph-96-wireless-gaming-keyboard-review/)
 - [Claude Code](https://lesterchan.net/blog/2026/05/25/claude-code/)
 - [Plaud Note Pro Review](https://lesterchan.net/blog/2026/04/28/plaud-note-pro-review/)
-- [Belkin UltraCharge Pro 3-in-1 Magnetic Charging Dock](https://lesterchan.net/blog/2026/04/20/belkin-ultracharge-pro-3-in-1-magnetic-charging-dock/)
 <!-- BLOG-POST-LIST:END -->
