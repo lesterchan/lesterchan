@@ -20,9 +20,9 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Aqara Power Plug H2 UK &lpar;RGB&rpar;](https://lesterchan.net/blog/2026/08/03/aqara-power-plug-h2-uk-rgb/)
 - [Cantonment MRT Station &lpar;CC31&rpar; Finally Opens](https://lesterchan.net/blog/2026/07/13/cantonment-mrt-station-cc31-finally-opens/)
 - [lesterchan.net v6.0](https://lesterchan.net/blog/2026/07/03/lesterchan-net-v6-0/)
 - [Asus RT-BE58 Go Travel Router Review](https://lesterchan.net/blog/2026/06/15/asus-rt-be58-go-travel-router-review/)
 - [Asus ROG Strix Morph 96 Wireless Gaming Keyboard Review](https://lesterchan.net/blog/2026/06/04/asus-rog-strix-morph-96-wireless-gaming-keyboard-review/)
-- [Claude Code](https://lesterchan.net/blog/2026/05/25/claude-code/)
 <!-- BLOG-POST-LIST:END -->
