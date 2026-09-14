@@ -20,9 +20,9 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Singtel iPhone 18 Pro And 18 Pro Max Price Plans](https://lesterchan.net/blog/2026/09/14/singtel-iphone-18-pro-and-18-pro-max-price-plans/)
 - [Logitech G316 X Wired Mechanical Gaming Keyboard Review](https://lesterchan.net/blog/2026/09/07/logitech-g316-x-wired-mechanical-gaming-keyboard-review/)
 - [Apple Wallet Express Mode For Travel In Singapore](https://lesterchan.net/blog/2026/09/01/apple-wallet-express-mode-for-travel-in-singapore/)
 - [Logitech G304 X Superlight Gaming Mouse Review](https://lesterchan.net/blog/2026/08/24/logitech-g304-x-superlight-gaming-mouse-review/)
 - [Google Pixel 11 Pro Fold Review](https://lesterchan.net/blog/2026/08/20/google-pixel-11-pro-fold-review/)
-- [Aqara Power Plug H2 UK &lpar;RGB&rpar;](https://lesterchan.net/blog/2026/08/03/aqara-power-plug-h2-uk-rgb/)
 <!-- BLOG-POST-LIST:END -->
