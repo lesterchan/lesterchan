@@ -20,9 +20,9 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Benks ArmorEdge Case For iPhone 18 Pro Max](https://lesterchan.net/blog/2026/10/05/benks-armoredge-case-for-iphone-18-pro-max/)
 - [This Is Fine Talking Figurine by KC Green](https://lesterchan.net/blog/2026/09/28/this-is-fine-talking-figurine-by-kc-green/)
 - [GL.iNet Comet Q](https://lesterchan.net/blog/2026/09/21/gl-inet-comet-q/)
 - [Singtel iPhone 18 Pro And 18 Pro Max Price Plans](https://lesterchan.net/blog/2026/09/14/singtel-iphone-18-pro-and-18-pro-max-price-plans/)
 - [Logitech G316 X Wired Mechanical Gaming Keyboard Review](https://lesterchan.net/blog/2026/09/07/logitech-g316-x-wired-mechanical-gaming-keyboard-review/)
-- [Apple Wallet Express Mode For Travel In Singapore](https://lesterchan.net/blog/2026/09/01/apple-wallet-express-mode-for-travel-in-singapore/)
 <!-- BLOG-POST-LIST:END -->
