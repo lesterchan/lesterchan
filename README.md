@@ -20,9 +20,9 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Asus ROG Gladius IV Ace Gaming Mouse Review](https://lesterchan.net/blog/2026/10/27/asus-rog-gladius-iv-ace-gaming-mouse-review/)
 - [Apple Mac Mini &lpar;M5 Pro&rpar;](https://lesterchan.net/blog/2026/10/20/apple-mac-mini-m5-pro/)
 - [Asus ROG Strix XG129C Touchscreen Gaming Monitor Review](https://lesterchan.net/blog/2026/10/15/asus-rog-strix-xg129c-touchscreen-gaming-monitor-review/)
 - [Belkin Launches Mickey &amp; Friends Collection With Disney And Formula 1](https://lesterchan.net/blog/2026/10/11/belkin-launches-mickey-friends-collection-with-disney-and-formula-1/)
 - [Benks ArmorEdge Case For iPhone 18 Pro Max](https://lesterchan.net/blog/2026/10/05/benks-armoredge-case-for-iphone-18-pro-max/)
-- [This Is Fine Talking Figurine by KC Green](https://lesterchan.net/blog/2026/09/28/this-is-fine-talking-figurine-by-kc-green/)
 <!-- BLOG-POST-LIST:END -->
