@@ -20,9 +20,9 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Epomaker TH80 V2](https://lesterchan.net/blog/2026/11/02/epomaker-th80-v2/)
 - [Asus ROG Gladius IV Ace Gaming Mouse Review](https://lesterchan.net/blog/2026/10/27/asus-rog-gladius-iv-ace-gaming-mouse-review/)
 - [Apple Mac Mini &lpar;M5 Pro&rpar;](https://lesterchan.net/blog/2026/10/20/apple-mac-mini-m5-pro/)
 - [Asus ROG Strix XG129C Touchscreen Gaming Monitor Review](https://lesterchan.net/blog/2026/10/15/asus-rog-strix-xg129c-touchscreen-gaming-monitor-review/)
 - [Belkin Launches Mickey &amp; Friends Collection With Disney And Formula 1](https://lesterchan.net/blog/2026/10/11/belkin-launches-mickey-friends-collection-with-disney-and-formula-1/)
-- [Benks ArmorEdge Case For iPhone 18 Pro Max](https://lesterchan.net/blog/2026/10/05/benks-armoredge-case-for-iphone-18-pro-max/)
 <!-- BLOG-POST-LIST:END -->
