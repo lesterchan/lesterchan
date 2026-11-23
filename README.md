@@ -20,9 +20,9 @@
 # Latest Blog Posts on [lesterchan.net](https://lesterchan.net)
 
 <!-- BLOG-POST-LIST:START -->
+- [Logitech G Pro X3 Superstrike Wireless Gaming Mouse Review](https://lesterchan.net/blog/2026/11/23/logitech-g-pro-x3-superstrike-wireless-gaming-mouse-review/)
 - [Ugreen Nexode Air Slim Charger &lpar;100W&rpar;](https://lesterchan.net/blog/2026/11/16/ugreen-nexode-air-slim-charger-100w/)
 - [UniFi Travel Router &lpar;UTR&rpar;](https://lesterchan.net/blog/2026/11/10/unifi-travel-router-utr/)
 - [Epomaker TH80 V2](https://lesterchan.net/blog/2026/11/02/epomaker-th80-v2/)
 - [Asus ROG Gladius IV Ace Gaming Mouse Review](https://lesterchan.net/blog/2026/10/27/asus-rog-gladius-iv-ace-gaming-mouse-review/)
-- [Apple Mac Mini &lpar;M5 Pro&rpar;](https://lesterchan.net/blog/2026/10/20/apple-mac-mini-m5-pro/)
 <!-- BLOG-POST-LIST:END -->
